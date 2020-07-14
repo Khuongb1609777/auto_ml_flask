@@ -20,7 +20,7 @@ file_path = "data_test/abalone.csv" #DATA_TEST for regression
 # col_feature = [0,1,2,3]   # col_feature for classify (iris)
 col_feature = [1,2,3,4,5,6,7] # col_feature for regression (abalone)
 # col_label = 4   # col_label for classify (iris)
-col_label = 9   # col_label for regression (abalone)
+col_label = 8   # col_label for regression (abalone)
 size = 0.3
 #------------------------------------------------------------------------------------
 
@@ -32,3 +32,4 @@ X_train, X_test, y_train, y_test = DATA.get_data_train(data,col_feature,col_labe
 model,evalution = LINEAR_REGRESSION_ATHM.models(algorithm,LINEAR_REGRESSION_ATHM.clf,X_train,X_test,y_train,y_test)
 
 print(model.predict(X_test))
+print(evalution)
