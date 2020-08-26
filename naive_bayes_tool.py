@@ -1,5 +1,6 @@
 from sklearn.naive_bayes import GaussianNB
 from algorithm_parent import algorithm
+from error import ERROR
 
 
 class naive_bayes_algorithm(algorithm):
@@ -9,7 +10,6 @@ class naive_bayes_algorithm(algorithm):
     }
 
     def getParams(custom_params):
-        # try:
         if (custom_params):
             try:
                 custom_params = dict(custom_params)
@@ -17,24 +17,28 @@ class naive_bayes_algorithm(algorithm):
                     custom_params['varSmoothing'])
             except TypeError:
                 print(
-                    "[error] check type of parameter (naive_bayes_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (naive_bayes_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_naiveBayes']
+                return data
             except ValueError:
                 print(
-                    "[error] check type of parameter (naive_bayes_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (naive_bayes_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_naiveBayes']
+                return data
             except KeyError:
                 print(
-                    "[error] check type of parameter (naive_bayes_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (naive_bayes_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_naiveBayes']
+                return data
             try:
                 clf = GaussianNB(
                     priors=None, var_smoothing=custom_params['varSmoothing'])
                 return clf
             except:
                 print(
-                    "[error] check type of parameter (naive_bayes_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (naive_bayes_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_naiveBayes']
+                return data
         else:
             try:
                 clf = GaussianNB(
@@ -42,9 +46,7 @@ class naive_bayes_algorithm(algorithm):
                 return clf
             except:
                 print(
-                    "[error] check type of parameter (naive_bayes_algorithm getPatams function)")
-                return False
-        # except:
-        #     print("[Error] check input for getParams function Naive bayes")
-        #     pass
+                    "[errorParams] check type of parameter (naive_bayes_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_naiveBayes']
+                return data
     pass

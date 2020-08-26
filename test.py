@@ -48,6 +48,7 @@
 # import httplib
 
 
+from error import ERROR
 from urllib.request import urlopen
 import re
 import requests as req
@@ -219,8 +220,70 @@ from main_algorithm import *
 # os.remove("ChangedFile.csv")
 
 
-df, col, n, m = DATA.read('csv', './temp/iris.csv')
-xtr, xt, ytr, yt = DATA.get_data_train(df, [0, 1, 2, 3], 4, 0.3)
+# df, col, n, m = DATA.read('csv', './temp/iris.csv')
+# xtr, xt, ytr, yt = DATA.get_data_train(df, [0, 1, 2, 3], 4, 0.3)
 
-Nu_SVC_classifier = joblib.load(urlopen(
-    "http://localhost:1337/parse/files/myAppId/32c7410331f84d0196fd8ac62f1c0b0b_73e59acd_NaiveBayes_7PzjG47Gql.pkl"))
+# Nu_SVC_classifier = joblib.load(urlopen(
+#     "http://localhost:1337/parse/files/myAppId/32c7410331f84d0196fd8ac62f1c0b0b_73e59acd_NaiveBayes_7PzjG47Gql.pkl"))
+
+# header = API.get_header()
+# http = API.http
+# class_name = "ModelDetail"
+# modelId = "ZQzxJXqYvV"
+# url = API.url + "classes/ModelDetail?%s"
+# param = ({"where": json.dumps({
+#     "modelId": modelId,
+# })
+# })
+# # url = API.url + "classes/ModelDetail/Y87e6ZSRGV"
+# param_encoded = urlencode(param)
+# r = http.request('GET', url % param_encoded, headers=header)
+
+
+# header = API.get_header()
+# http = API.http
+# url = API.url + "classes/" + str("Data") + "?%s"
+# param = ({"where": json.dumps({
+#     "userUpload": "JclGidZqhN"
+# })
+# })
+# param_encoded = urlencode(param)
+# r = http.request('GET', url % param_encoded, headers=header)
+# data = DATA.convert_bytes_to_json(r.data)
+# if data['results'] == []:
+#     print(
+#         "[error] request fail, check user id, class name (get_data_user function in API class) ")
+#     return False
+# else:
+#     return (data)
+
+
+# header = API.get_header()
+# http = API.http
+# url = API.url + "classes/" + str("Data") + "?%s"
+# param = ({"where": json.dumps({
+#     "userUpload": "JclGidZqhN"
+# })
+# })
+# param_encoded = urlencode(param)
+# r = http.request('GET', url % param_encoded, headers=header)
+
+df, columns, n, m = DATA.read("csv", "./file_test/abalone.csv")
+
+xtr, xts, ytr, yts = DATA.get_data_train(df, [0, 2, 3, 4], 8, 0.3)
+
+model, eva = get_athm("LinearRegression", xtr, xts, ytr, yts)
+
+clf = linear_regression_algorithm.getParams()
+
+clf = {
+    "errorParams": "fasdfasdf"
+}
+
+if(clf['errorParams']):
+    print("error")
+
+
+clf = {
+    "asdfasdf": "sadfasdfadf"
+}

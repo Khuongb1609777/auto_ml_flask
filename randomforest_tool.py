@@ -1,5 +1,6 @@
 from sklearn.ensemble import RandomForestClassifier
 from algorithm_parent import algorithm
+from error import ERROR
 
 
 class randomforest_algorithm(algorithm):
@@ -22,24 +23,28 @@ class randomforest_algorithm(algorithm):
                 custom_params['criterion'] = str(custom_params['criterion'])
             except TypeError:
                 print(
-                    "[error] check type of parameter (randomforest_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (randomforest_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_randomForest']
+                return data
             except ValueError:
                 print(
-                    "[error] check type of parameter (randomforest_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (randomforest_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_randomForest']
+                return data
             except KeyError:
                 print(
-                    "[error] check type of parameter (randomforest_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (randomforest_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_randomForest']
+                return data
             try:
                 clf = RandomForestClassifier(
                     n_estimators=custom_params['nEstimators'], criterion=custom_params['criterion'], max_depth=custom_params['maxDepth'])
                 return clf
             except:
                 print(
-                    "[error] check type of parameter (randomforest_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (randomforest_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_randomForest']
+                return data
         else:
             try:
                 clf = RandomForestClassifier(
@@ -47,8 +52,9 @@ class randomforest_algorithm(algorithm):
                 return clf
             except:
                 print(
-                    "[error] check type of parameter (randomforest_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (randomforest_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_randomForest']
+                return data
         # except:
         #     print("[Error] check input for getParams function random Forest")
     pass

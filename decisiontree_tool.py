@@ -1,5 +1,6 @@
 from sklearn.tree import DecisionTreeClassifier
 from algorithm_parent import algorithm
+from error import ERROR
 
 
 class decision_tree_algorithm(algorithm):
@@ -11,7 +12,6 @@ class decision_tree_algorithm(algorithm):
     }
 
     def getParams(customParams=None):
-        # try:
         if customParams:
             try:
                 customParams = dict(customParams)
@@ -26,24 +26,28 @@ class decision_tree_algorithm(algorithm):
                 # print("minSamples", customParams['minSamples'])
             except TypeError:
                 print(
-                    "[error] check type of parameter (decision_tree_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (decision_tree_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_decisionTree']
+                return data
             except ValueError:
                 print(
-                    "[error] check type of parameter (decision_tree_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (decision_tree_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_decisionTree']
+                return data
             except KeyError:
                 print(
-                    "[error] check type of parameter (decision_tree_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (decision_tree_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_decisionTree']
+                return data
             try:
                 clf = DecisionTreeClassifier(
                     criterion=customParams['criterion'], splitter=customParams['splitter'], max_depth=customParams['maxDepth'], min_samples_split=customParams['minSamples'])
                 return clf
             except:
                 print(
-                    "[error] check type of parameter (decision_tree_algorithm getPatams function)")
-                return False
+                    "[errorParams] check type of parameter (decision_tree_algorithm getPatams function)")
+                data = ERROR.error_params['error_params_decisionTree']
+                return data
         else:
             try:
                 clf = DecisionTreeClassifier(
@@ -52,8 +56,6 @@ class decision_tree_algorithm(algorithm):
             except:
                 print(
                     "[error] check type of parameter (decision_tree_algorithm getPatams function)")
-                return False
-
-        # except:
-        #     print("[Error] check input for getParams function decision Tree")
+                data = ERROR.error_params['error_params_decisionTree']
+                return data
     pass
