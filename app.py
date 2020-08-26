@@ -1,5 +1,5 @@
 # server/app.py
-from flask import template_rendered, render_template, request, jsonify, current_app, send_from_directory, send_file
+from flask import template_rendered, render_template, request, jsonify, current_app, send_from_directory, send_file, safe_join
 from flask import Flask
 from flask_cors import cross_origin
 from flask_cors import CORS
@@ -77,7 +77,7 @@ def upload_file():
         file_upload.save(file_path_upload)
         file_tail = filename.split(".")[1]
         if(data_name == ""):
-            data_name_upload = filename_json_random
+            data_name_upload = filename
         else:
             data_name_upload = data_name
     except UnboundLocalError:
@@ -142,9 +142,9 @@ def get_data():
 @cross_origin()
 def get_data_models():
     try:
-        userId = request.args.get('userId')
-        className = 'Model'
-        r = API.get_model_user(className, userId)
+        user_id = request.args.get('userId')
+        class_name = 'Model'
+        r = API.get_model_user(class_name, user_id)
         return (r)
     except:
         print("[Error] (getDataModels function app.py)")
@@ -232,7 +232,7 @@ def linking_users():
             "username": "36195438",
             "password": "khuong"
         }
-        login_user_info = API.userLogin(login_info_auth)
+        login_user_info = API.user_login(login_info_auth)
         login_user_info.sessiontoken
         return (str(login_user_info))
     except:
@@ -245,23 +245,25 @@ def linking_users():
 def create_model():
     try:
         # Get opjectId, collabel, feature, algorithm and parameters
-        object_id = request.args.get('objectId')
+        data_id = request.args.get('dataId')
+        user_id = request.args.get('userId')
         class_name = request.args.get('className')
-        modelName = request.args.get('modelname')
+        model_name = request.args.get('modelname')
         col_label = int(request.args.get('label'))
         col_feature_str = (request.args.get('feature')).split(',')
         col_feature = []
         for col in col_feature_str:
             col_feature.append(int(col))
         athm = request.args.get('algorithm')
+        athm_id = request.args.get('algorithmId')
         params = json.loads(request.args.get('params'))
         if(params == {}):
             params = None
         # get data
-        r = API.get_data_create_model(class_name, object_id)
-        dataName = r['dataName'].split("_")[-1].split(".")[0]
-        dataJson = json.loads(r['jsonData'])
-        dataFrame = pd.DataFrame(dataJson)
+        r = API.get_data_create_model(class_name, data_id)
+        data_name = r['dataName']
+        data_json = json.loads(r['jsonData'])
+        dataFrame = pd.DataFrame(data_json)
         dataFrame = DATA.check_columns_name(dataFrame)
         col_feature_name = (np.array(pd.DataFrame(
             np.matrix(dataFrame.columns)).iloc[0, col_feature]))
@@ -288,26 +290,50 @@ def create_model():
             folder_model = "./uploadModel"
             randomId = str(uuid.uuid4())[:8]
             file_name_model = randomId + "_" + \
-                str(athm) + "_" + str(object_id) + str(".pkl")
+                str(athm) + "_" + str(data_id) + str(".pkl")
             pkl_filename = folder_model + "/" + file_name_model
             joblib.dump(model, str(file_name_model))
             custom_header = {}
             custom_header['X-Parse-Application-Id'] = API.X_Parse_Application_Id
             custom_header['X-Parse-REST-API-Key'] = API.X_Parse_REST_API_Key
             custom_header['Content-Type'] = "application/x-binary"
-            r_upload = API.upload_model_file(
-                "JclGidZqhN", object_id, dataName, file_name_model, modelName, custom_header)
-            r_json = DATA.convert_bytes_to_json(r_upload)
-            model_id = r_json['objectId']
-            description = "Model " + str(model_id) + " use " + str(athm) + " algorithm " + ". " + "Dataset for model is " + str(dataName) + ", columns label is " + str(
-                col_label) + " and columns feature is " + str(col_feature)
-            r_model_detail = API.upload_model_detail(
-                model_id, athm, dataName, modelName, description, str(col_feature), str(col_label), col_feature_name_str, str(col_label_name))
+            desription = description = "Model " + " use " + str(athm) + " algorithm " + ". " + "Dataset for model is " + str(
+                data_name) + ", columns label is " + str(col_label_name) + " and columns feature is " + str(col_feature_name)
+            r_upload = API.upload_model_file(file_name_model, user_id, model_name, data_id,
+                                             athm_id, params, col_label, col_label_name, col_feature, col_feature_name_str, description)
             return (r_upload)
     except:
         print("[error] (createModel function app.py)")
         data = {
             'error': "can't create model"
+        }
+        return (data)
+
+
+@app.route('/download-dataset', methods=['GET'])
+# @cross_origin()
+def download_dataset():
+    try:
+        # Get opjectId, collabel, feature, algorithm and parameters
+        data_id = request.args.get('dataId')
+        class_name = request.args.get('className')
+        r = API.get_data_create_model(class_name, data_id)
+        file_name = str(uuid.uuid4())[:8] + "_data.csv"
+        data_json = json.loads(r['jsonData'])
+        dataFrame = pd.DataFrame(data_json)
+        dataFrame = DATA.check_columns_name(dataFrame)
+        # file_path = "./temp/" + file_name
+        file_path_download = "./temp/" + file_name
+        export_csv = dataFrame.to_csv(
+            file_path_download, index=None, header=True)
+        return send_file(file_path_download,
+                         mimetype='test/csv',
+                         attachment_filename="data.csv",
+                         as_attachment=True)
+    except:
+        print("[error] (createModel function app.py)")
+        data = {
+            'error': "can't  download data"
         }
         return (data)
 

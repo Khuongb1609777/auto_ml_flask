@@ -131,7 +131,7 @@ class API:
                 "[Error] bad request, check user id, class name (get_data_user function in API class)")
             pass
 
-    def get_model_user(class_name, userId, addition_header=None):
+    def get_model_user(class_name, user_id, addition_header=None):
         try:
             header = API.get_header()
             http = API.http
@@ -142,15 +142,19 @@ class API:
             pass
         try:
             param = ({"where": json.dumps({
-                "userCreate": userId
-            }), 'order': "-createdAt"})
+                "createdBy": user_id
+            }), 'order': "-createdAt", 'include': '*'})
             param_encoded = urlencode(param)
         except:
             print("[error]")
             pass
         try:
             r = http.request('GET', url % param_encoded, headers=header)
-            data = DATA.convert_bytes_to_json(r.data)
+            arr = str(r.data, 'utf-8')
+            data = json.loads(arr)
+            print(data)
+            # print(r.data)
+            # data = DATA.convert_bytes_to_json(r.data)
             if data['results'] == []:
                 print(
                     "[error] request fail, check user id, class name (get_data_user function in API class) ")
@@ -273,7 +277,32 @@ class API:
                 "[Error] bad request, check user id, class name (delete_object function in API class)")
             pass
 
-    def upload_model_file(uId, data_id, dataName, url_file_model, modelName, addition_header=None):
+    def get_object_id_athm(class_name, algorithmName, addition_header=None):
+        try:
+            header = API.get_header()
+            http = API.http
+            url = API.url + "classes/" + str("class_name") + "?%s"
+        except AttributeError:
+            print(
+                "[error] can't find header in API (get_data_user function in API class)")
+            pass
+        try:
+            param = ({"where": json.dumps({
+                "algorithmName": str(algorithmName)
+            }), 'order': "-createdAt"})
+            param_encoded = urlencode(param)
+        except:
+            print("[error]")
+            pass
+        try:
+            r = http.request('GET', url % param_encoded, headers=header)
+            return(r)
+        except:
+            print(
+                "[Error] bad request, check user id, class name (get_data_user function in API class)")
+            pass
+
+    def upload_model_file(url_file_model, user_id, model_name, data_id, algorithm_id, params, col_label, col_label_name, col_feature, col_feature_name, description, addition_header=None):
         try:
             with open(url_file_model, 'rb') as fp:
                 binary_data = fp.read()
@@ -297,30 +326,40 @@ class API:
             dataResultLogin = DATA.convert_bytes_to_json(r.data)
             # return (dataResultLogin)
             data = {
-                "userCreate": {
-                    "__type": "Pointer",
-                    "className": "_User",
-                    "objectId": uId,
-                },
-                "dataModel": {
-                    "__type": "Pointer",
-                    "className": "Data",
-                    "objectId": data_id,
-                },
                 "modelFile": {
                     "name": dataResultLogin['name'],
                     "url": dataResultLogin['url'],
                     "__type": "File"
                 },
-                "modelName": modelName,
-                "dataName": dataName
+                "createdBy": {
+                    "__type": "Pointer",
+                    "className": "_User",
+                    "objectId": user_id,
+                },
+                "modelName": model_name,
+                "dataModel": {
+                    "__type": "Pointer",
+                    "className": "Data",
+                    "objectId": data_id,
+                },
+                "algorithm": {
+                    "__type": "Pointer",
+                    "className": "Algorithm",
+                    "objectId": algorithm_id,
+                },
+                "params": params,
+                "colLabel": str(col_label),
+                "colLabelName": str(col_label_name),
+                "colFeature": str(col_feature),
+                "colFeatureName": str(col_feature_name),
+                "description": str(description),
             }
             url_upload_DB = API.url + "classes/" + "Model"
             header_upload_DB = API.get_header()
             data_decode = json.dumps(data)
             r = http.request('POST', url_upload_DB, body=data_decode,
                              headers=header_upload_DB)
-            print(r)
+            # print(r)
             return(r.data)
         # except:
         #     print("[Error]---")
@@ -403,10 +442,11 @@ class API:
             pass
         try:
             r = http.request('GET', url, headers=header)
-            data = DATA.convert_bytes_to_json(r.data)
+            arr = str(r.data, 'utf-8')
+            data = json.loads(arr)
             return (data)
         except:
-            print("[error] can't find data (get_object_data in function API class)")
-            return ("[error] can't find data (get_object_data in function API class)")
+            print("[error] can't find data (get_model in function API class)")
+            return ("[error] can't find data (get_model in function API class)")
             pass
     pass
