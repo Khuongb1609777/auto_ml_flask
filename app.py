@@ -31,12 +31,15 @@ from decisiontree_tool import decision_tree_algorithm
 from linear_regression_tool import linear_regression_algorithm
 
 
-# UPLOAD_FOLDER = './classify_backend/temp'
-UPLOAD_FOLDER = './temp'
+UPLOAD_FOLDER = './upload_temp'
+DOWNLOAD_FOLDER = './download_temp'
+DATA_API_FOLDER = './data_api'
 
 app = Flask(__name__, static_folder="../front/dist/front", static_url_path="")
 CORS(app)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['DOWNLOAD_FOLDER'] = DOWNLOAD_FOLDER
+app.config['DATA_API_FOLDER'] = DATA_API_FOLDER
 
 
 @app.route('/', methods=['POST', 'get'])
@@ -71,8 +74,13 @@ def upload_file():
         filename_json_random = str(random_id) + "_" + \
             "json" + "_" + filename_json
         #   get file_path
-        file_path_upload = os.path.join(
-            app.config['UPLOAD_FOLDER'], filename_upload_random)
+        if(os.path.exists(app.config['UPLOAD_FOLDER'])):
+            file_path_upload = os.path.join(
+                app.config['UPLOAD_FOLDER'], filename_upload_random)
+        else:
+            os.makedirs(app.config['UPLOAD_FOLDER'])
+            file_path_upload = os.path.join(
+                app.config['UPLOAD_FOLDER'], filename_upload_random)
         #   save file
         file_upload.save(file_path_upload)
         file_tail = filename.split(".")[1]
@@ -265,6 +273,10 @@ def create_model():
         data_json = json.loads(r['jsonData'])
         dataFrame = pd.DataFrame(data_json)
         dataFrame = DATA.check_columns_name(dataFrame)
+        for col in col_feature:
+            dataFrame = dataFrame.drop(
+                dataFrame[(dataFrame.iloc[:, col] == "")].index)
+        # dataFrame = dataFrame.dropna(axis="1",how = "any")
         col_feature_name = (np.array(pd.DataFrame(
             np.matrix(dataFrame.columns)).iloc[0, col_feature]))
         col_feature_name_str = col_feature_name[0]
@@ -322,8 +334,17 @@ def download_dataset():
         data_json = json.loads(r['jsonData'])
         dataFrame = pd.DataFrame(data_json)
         dataFrame = DATA.check_columns_name(dataFrame)
+        if(os.path.exists(app.config['DOWNLOAD_FOLDER'])):
+            print("ok")
+            file_path_download = os.path.join(
+                app.config['DOWNLOAD_FOLDER'], file_name)
+        else:
+            print("not ok")
+            os.makedirs(app.config['DOWNLOAD_FOLDER'])
+            file_path_download = os.path.join(
+                app.config['DOWNLOAD_FOLDER'], file_name)
         # file_path = "./temp/" + file_name
-        file_path_download = "./temp/" + file_name
+        # file_path_download = "./temp/" + file_name
         export_csv = dataFrame.to_csv(
             file_path_download, index=None, header=True)
         return send_file(file_path_download,
@@ -339,90 +360,119 @@ def download_dataset():
         return (data)
 
 
-@app.route('/create-api-model', methods=['GET', 'POST'])
+@app.route('/model-publish-api', methods=['GET', 'POST'])
 # @cross_origin()
 def create_api_model():
     # try:
-    modelId = request.form.get('modelId')
-    if(modelId == None):
-        return("[error] modelId not found check (keys) modelId and values ")
-    else:
-        file_test = request.files.getlist('dataTest')[0]
-        file_name = secure_filename(file_test.filename)
-        if(file_name == ""):
-            return ("[error] Can't find dataTest, check keys 'dataTest' and values")
-        else:
-            try:
-                filename_random = str(uuid.uuid4())[:8] + "_" + file_name
-                file_path_test = "./file_test/" + \
-                    str(filename_random)
-                file_test.save(file_path_test)
-                df_test, columns, n, m = DATA.read("csv", file_path_test)
-            except:
-                print("[error] can't save dataTest, request fail")
-                return("[error] can't save dataTest, request fail")
-                pass
-            try:
-                col_feature_test_string = request.form.getlist('inputColumns')[
-                    0]
-                col_feature_test_list = ast.literal_eval(
-                    col_feature_test_string)
-                col_feature_test_array = np.array(col_feature_test_list)
+    if (request.headers['CONTENT_TYPE'] == "application/json"):
+        try:
+            data_request = request.json
+            modelId = data_request['modelId']
+            if(modelId == None):
+                return("[error] modelId not found check (keys) modelId and values ")
+            else:
+                data_test_json = data_request['data']
+                data_test_dataFrame = pd.DataFrame(data_test_json)
                 r = API.get_model("Model", modelId)
                 modelUrl = r['modelFile']['url']
                 Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
-            except:
-                print("[error] request fail")
-                notification = "[error] request fail check key 'modelId', model " + \
-                    str(modelId) + " not found"
-                return(notification)
-                pass
-            try:
-                data_test = df_test.iloc[:, col_feature_test_array]
-                KQ = np.array(Nu_SVC_classifier.predict(data_test))
+                KQ = np.array(Nu_SVC_classifier.predict(data_test_dataFrame))
                 dataReturn = {
-                    "dataPredict": [],
+                    "result": [],
                 }
                 for rs in KQ:
-                    dataReturn['dataPredict'].append(str(rs))
-                os.remove(file_path_test)
+                    dataReturn['result'].append(str(rs))
+                # print(type(dataReturn))
                 return(dataReturn)
-            except IndexError:
-                print("[error] check key (inputColumns) and value")
-                return("[error] check key (inputColumns) and value check (number inputColumns)")
-                pass
-            except ValueError:
-                print("[error] check key (inputColumns) and value")
-                return("[error] check key (inputColumns) and value (check type inputColumns)")
-                pass
-
-
-@ app.route('/create-api-model-jsondata', methods=['POST'])
-# @cross_origin()
-def create_api_model_jsondata():
-    try:
-        data_request = request.json
-        modelId = data_request['modelId']
+        except:
+            print("[error] check key (inputColumns) and value")
+            return("[error] check key (inputColumns) and value (check type inputColumns)")
+            pass
+    else:
+        modelId = request.form.get('modelId')
         if(modelId == None):
             return("[error] modelId not found check (keys) modelId and values ")
         else:
-            data_test_json = data_request['dataTest']
-            data_test_dataFrame = pd.DataFrame(data_test_json)
-            r = API.get_model("Model", modelId)
-            modelUrl = r['modelFile']['url']
-            Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
-            KQ = np.array(Nu_SVC_classifier.predict(data_test_dataFrame))
-            dataReturn = {
-                "dataPredict": [],
-            }
-            for rs in KQ:
-                dataReturn['dataPredict'].append(str(rs))
-            # print(type(dataReturn))
-            return(dataReturn)
-    except:
-        print("[error] check key (inputColumns) and value")
-        return("[error] check key (inputColumns) and value (check type inputColumns)")
-        pass
+            file_test = request.files.getlist('data')[0]
+            file_name = secure_filename(file_test.filename)
+            if(file_name == ""):
+                return ("[error] Can't find data, check keys 'data' and values")
+            else:
+                try:
+                    filename_random = str(uuid.uuid4())[:8] + "_" + file_name
+                    if(os.path.exists(app.config['DATA_API_FOLDER'])):
+                        file_path_test = os.path.join(
+                            app.config['DATA_API_FOLDER'], filename_random)
+                    else:
+                        os.makedirs(app.config['DATA_API_FOLDER'])
+                        file_path_test = os.path.join(
+                            app.config['DATA_API_FOLDER'], filename_random)
+                    file_test.save(file_path_test)
+                    df_test, columns, n, m = DATA.read("csv", file_path_test)
+                except:
+                    print("[error] can't save data, request fail")
+                    return("[error] can't save data, request fail")
+                    pass
+                try:
+                    col_feature_test_string = request.form.getlist('inputColumns')[
+                        0]
+                    col_feature_test_list = ast.literal_eval(
+                        col_feature_test_string)
+                    col_feature_test_array = np.array(col_feature_test_list)
+                    r = API.get_model("Model", modelId)
+                    modelUrl = r['modelFile']['url']
+                    Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
+                except:
+                    print("[error] request fail")
+                    notification = "[error] request fail check key 'modelId', model " + \
+                        str(modelId) + " not found"
+                    return(notification)
+                    pass
+                try:
+                    data_test = df_test.iloc[:, col_feature_test_array]
+                    KQ = np.array(Nu_SVC_classifier.predict(data_test))
+                    dataReturn = {
+                        "result": [],
+                    }
+                    for rs in KQ:
+                        dataReturn['result'].append(str(rs))
+                    os.remove(file_path_test)
+                    return(dataReturn)
+                except IndexError:
+                    print("[error] check key (inputColumns) and value")
+                    return("[error] check key (inputColumns) and value check (number inputColumns)")
+                    pass
+                except ValueError:
+                    print("[error] check key (inputColumns) and value")
+                    return("[error] check key (inputColumns) and value (check type inputColumns)")
+                    pass
+
+# @ app.route('/create-api-model-jsondata', methods=['POST'])
+# # @cross_origin()
+# def create_api_model_jsondata():
+#     try:
+#         data_request = request.json
+#         modelId = data_request['modelId']
+#         if(modelId == None):
+#             return("[error] modelId not found check (keys) modelId and values ")
+#         else:
+#             data_test_json = data_request['data']
+#             data_test_dataFrame = pd.DataFrame(data_test_json)
+#             r = API.get_model("Model", modelId)
+#             modelUrl = r['modelFile']['url']
+#             Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
+#             KQ = np.array(Nu_SVC_classifier.predict(data_test_dataFrame))
+#             dataReturn = {
+#                 "dataPredict": [],
+#             }
+#             for rs in KQ:
+#                 dataReturn['dataPredict'].append(str(rs))
+#             # print(type(dataReturn))
+#             return(dataReturn)
+#     except:
+#         print("[error] check key (inputColumns) and value")
+#         return("[error] check key (inputColumns) and value (check type inputColumns)")
+#         pass
 
 
 @ app.route('/get-model-detail', methods=['GET'])

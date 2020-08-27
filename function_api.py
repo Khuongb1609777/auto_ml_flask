@@ -95,13 +95,14 @@ class API:
             pass
         try:
             r = http.request_encode_url('GET', url, headers=header)
-            rJson = DATA.convert_bytes_to_json(r.data)
-            if('error' in list(rJson.keys())):
-                print("[error] ", rJson['code'], ", data:",
-                      rJson['error'], "--check class_name, objectId (get_data_createmodel function in API class)")
+            arr = str(r.data, 'utf-8')
+            r_json = json.loads(arr)
+            if('error' in list(r_json.keys())):
+                print("[error] ", r_json['code'], ", data:",
+                      r_json['error'], "--check class_name, objectId (get_data_createmodel function in API class)")
                 return False
             else:
-                return (rJson)
+                return (r_json)
         except:
             print(
                 "[Error get data] check object id (get_data_createmodel function in API class)")
