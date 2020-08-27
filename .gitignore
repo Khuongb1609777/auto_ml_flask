@@ -1,3 +1,6 @@
 __pycache__
 venv
 .idea
+temp
+file_test
+upload_model

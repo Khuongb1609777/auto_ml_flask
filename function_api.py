@@ -88,7 +88,8 @@ class API:
             header = API.get_header()
             http = API.http
             url = API.url + "classes/" + str(class_name) + "/" + str(object_id)
-        except AttributeError:
+        except AttributeError as ex:
+            print("AttributeError ", ex)
             print(
                 "[error] can't find header in API (get_data_createmodel function in API class)")
             pass

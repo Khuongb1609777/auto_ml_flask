@@ -287,7 +287,7 @@ def create_model():
             return data
         else:
             #   Create random id for file name
-            folder_model = "./uploadModel"
+            folder_model = "./upload_model"
             randomId = str(uuid.uuid4())[:8]
             file_name_model = randomId + "_" + \
                 str(athm) + "_" + str(data_id) + str(".pkl")
@@ -330,11 +330,12 @@ def download_dataset():
                          mimetype='test/csv',
                          attachment_filename="data.csv",
                          as_attachment=True)
-    except:
+    except Exception as ex:
         print("[error] (createModel function app.py)")
         data = {
             'error': "can't  download data"
         }
+        print(ex)
         return (data)
 
 
