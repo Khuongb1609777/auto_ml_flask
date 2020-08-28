@@ -189,7 +189,8 @@ def delete_data():
     try:
         object_id = request.args.getlist('oId')[0]
         class_id = "Data"
-        data = API.delete_object(class_id, object_id)
+        data = API.delete_data(class_id, object_id)
+        print("data", data)
         return (data)
     except:
         print("[Error] (delete function app.py)")
@@ -335,11 +336,9 @@ def download_dataset():
         dataFrame = pd.DataFrame(data_json)
         dataFrame = DATA.check_columns_name(dataFrame)
         if(os.path.exists(app.config['DOWNLOAD_FOLDER'])):
-            print("ok")
             file_path_download = os.path.join(
                 app.config['DOWNLOAD_FOLDER'], file_name)
         else:
-            print("not ok")
             os.makedirs(app.config['DOWNLOAD_FOLDER'])
             file_path_download = os.path.join(
                 app.config['DOWNLOAD_FOLDER'], file_name)
@@ -382,7 +381,6 @@ def create_api_model():
                 }
                 for rs in KQ:
                     dataReturn['result'].append(str(rs))
-                # print(type(dataReturn))
                 return(dataReturn)
         except:
             print("[error] check key (inputColumns) and value")

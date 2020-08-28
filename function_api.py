@@ -154,15 +154,7 @@ class API:
             r = http.request('GET', url % param_encoded, headers=header)
             arr = str(r.data, 'utf-8')
             data = json.loads(arr)
-            print(data)
-            # print(r.data)
-            # data = DATA.convert_bytes_to_json(r.data)
-            if data['results'] == []:
-                print(
-                    "[error] request fail, check user id, class name (get_data_user function in API class) ")
-                return False
-            else:
-                return (data)
+            return (data)
         except:
             print(
                 "[Error] bad request, check user id, class name (get_data_user function in API class)")
@@ -211,6 +203,46 @@ class API:
                       checkRequest['error'], "(delete_object function in API class)")
             else:
                 return (r.data)
+        except:
+            print(
+                "[Error] bad request, check user id, class name (delete_object function in API class)")
+            pass
+
+    def delete_data(class_name, object_id, addition_header=None):
+        try:
+            header = API.get_header(addition_header)
+            http = API.http
+            url_delete = API.url + "classes/" + \
+                str(class_name) + "/" + str(object_id)
+        except:
+            print(
+                "[error] can't find header in API (delete_object function in API class)")
+            pass
+        try:
+            url_check_model = API.url + "classes/" + str("Model") + "?%s"
+            param = ({"where": json.dumps({
+                "dataModel": str(object_id)
+            }), 'order': "-createdAt"})
+            param_encoded = urlencode(param)
+            r_check = http.request('GET', url_check_model %
+                                   param_encoded, headers=header)
+            arr = str(r_check.data, 'utf-8')
+            data = json.loads(arr)
+            if(len(data['results']) > 0):
+                list_model = ""
+                for record in data['results']:
+                    list_model = list_model + str(record['modelName'] + ", ")
+                err = {'error': "This datasets exist model: " + list_model +
+                       " you must be delete " + list_model + " before delete this dataset"}
+                return(err)
+            else:
+                r = http.request('DELETE', url_delete, headers=header)
+                checkRequest = DATA.convert_bytes_to_json(r.data)
+                if('error' in list(checkRequest.keys())):
+                    print("[error] ", checkRequest['code'], ", data:",
+                          checkRequest['error'], "(delete_object function in API class)")
+                else:
+                    return (r.data)
         except:
             print(
                 "[Error] bad request, check user id, class name (delete_object function in API class)")
@@ -361,7 +393,6 @@ class API:
             data_decode = json.dumps(data)
             r = http.request('POST', url_upload_DB, body=data_decode,
                              headers=header_upload_DB)
-            # print(r)
             return(r.data)
         # except:
         #     print("[Error]---")
