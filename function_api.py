@@ -208,18 +208,16 @@ class API:
                 "[Error] bad request, check user id, class name (delete_object function in API class)")
             pass
 
-    def delete_data(class_name, object_id, addition_header=None):
+    def check_data(class_name, object_id, addition_header=None):
         try:
             header = API.get_header(addition_header)
             http = API.http
-            url_delete = API.url + "classes/" + \
-                str(class_name) + "/" + str(object_id)
+            url_check_model = API.url + "classes/" + str("Model") + "?%s"
         except:
             print(
                 "[error] can't find header in API (delete_object function in API class)")
             pass
         try:
-            url_check_model = API.url + "classes/" + str("Model") + "?%s"
             param = ({"where": json.dumps({
                 "dataModel": str(object_id)
             }), 'order': "-createdAt"})
@@ -232,17 +230,36 @@ class API:
                 list_model = ""
                 for record in data['results']:
                     list_model = list_model + str(record['modelName'] + ", ")
-                err = {'error': "This datasets exist model: " + list_model +
-                       " you must be delete " + list_model + " before delete this dataset"}
-                return(err)
+                data_return = {
+                    "status": 404,
+                    'error': "This datasets exist model: " + list_model +
+                    " you must be delete " + list_model + " before delete this dataset"}
+                return(data_return)
             else:
-                r = http.request('DELETE', url_delete, headers=header)
-                checkRequest = DATA.convert_bytes_to_json(r.data)
-                if('error' in list(checkRequest.keys())):
-                    print("[error] ", checkRequest['code'], ", data:",
-                          checkRequest['error'], "(delete_object function in API class)")
-                else:
-                    return (r.data)
+                data_return = {
+                    "status": 200,
+                    "error": "no error"
+                }
+                return(data_return)
+        except:
+            print(
+                "[Error] bad request, check user id, class name (delete_object function in API class)")
+            pass
+
+    def delete_data(class_name, object_id, addition_header=None):
+        try:
+            header = API.get_header(addition_header)
+            http = API.http
+            url_delete = API.url + "classes/" + \
+                str(class_name) + "/" + str(object_id)
+        except:
+            print(
+                "[error] can't find header in API (delete_object function in API class)")
+            pass
+        try:
+            r = http.request('DELETE', url_delete, headers=header)
+            request_delete_data = DATA.convert_bytes_to_json(r.data)
+            return(request_delete_data)
         except:
             print(
                 "[Error] bad request, check user id, class name (delete_object function in API class)")

@@ -159,6 +159,19 @@ def get_data_models():
         return ("[Error] BAD REQUEST can't get datamodel")
 
 
+@app.route('/check-data-delete', methods=['GET'])
+# @cross_origin()
+def check_data_delete():
+    try:
+        className = request.args.get('className')
+        object_id_delete = request.args.get('dataId')
+        r = API.check_data(className, object_id_delete)
+        return (r)
+    except:
+        print("[Error] (getAlgorithm function app.py)")
+        return ("[Error] BAD REQUEST can't get algorithm")
+
+
 @app.route('/get-algorithm', methods=['GET'])
 # @cross_origin()
 def get_algorithm():
@@ -187,10 +200,9 @@ def get_params():
 @cross_origin()
 def delete_data():
     try:
-        object_id = request.args.getlist('oId')[0]
+        object_id = request.args.get('oId')
         class_id = "Data"
         data = API.delete_data(class_id, object_id)
-        print("data", data)
         return (data)
     except:
         print("[Error] (delete function app.py)")
@@ -291,7 +303,7 @@ def create_model():
         # get data train, test
         X_train, X_test, y_train, y_test = DATA.get_data_train(
             dataFrame, col_feature, col_label, 0.3)
-        model, evalution, error = get_athm(
+        model, evalution, error, params = get_athm(
             athm, X_train, X_test, y_train, y_test, params)
         if(error != ""):
             data = {

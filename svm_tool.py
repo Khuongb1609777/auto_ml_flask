@@ -6,8 +6,8 @@ from error import ERROR
 
 class svm_algorithm(algorithm):
     params = {
-        'c': 10,
-        'gamma': 0.5,
+        'c': 1,
+        'gamma': 'scale',
         'degree': 3
     }
 

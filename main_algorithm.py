@@ -12,6 +12,8 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             clf = linear_regression_algorithm.getParams(params)
             model, evalution, error = linear_regression_algorithm.models(
                 athm, clf, X_train, X_test, y_train, y_test)
+            if (params == None):
+                params = linear_regression_algorithm.params
         except TypeError:
             pass
         except UnboundLocalError:
@@ -23,6 +25,8 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             clf = randomforest_algorithm.getParams(params)
             model, evalution, error = randomforest_algorithm.models(
                 athm, clf, X_train, X_test, y_train, y_test)
+            if (params == None):
+                params = randomforest_algorithm.params
         except TypeError:
             print("co loi xay ra", clf['errorParams'])
             pass
@@ -34,6 +38,8 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             clf = naive_bayes_algorithm.getParams(params)
             model, evalution, error = naive_bayes_algorithm.models(
                 athm, clf, X_train, X_test, y_train, y_test)
+            if (params == None):
+                params = naive_bayes_algorithm.params
         except TypeError:
             print("[error] naive_bayes_algorithm")
             pass
@@ -45,6 +51,8 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             clf = svm_algorithm.getParams(params)
             model, evalution, error = svm_algorithm.models(
                 athm, clf, X_train, X_test, y_train, y_test)
+            if (params == None):
+                params = svm_algorithm.params
         except TypeError:
             print("[error] clf is not define")
             pass
@@ -53,6 +61,8 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             pass
     else:
         try:
+            if (params == None):
+                params = decision_tree_algorithm.params
             clf = decision_tree_algorithm.getParams(params)
             model, evalution, error = decision_tree_algorithm.models(
                 athm, clf, X_train, X_test, y_train, y_test)
@@ -63,7 +73,7 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
             print("[error] clf is not define")
             pass
     try:
-        return (model, evalution, error)
+        return (model, evalution, error, params)
     except UnboundLocalError:
         print("error", clf)
         pass
