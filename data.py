@@ -6,15 +6,16 @@ import json
 
 
 class DATA:
-    def read(file_tail, file_path):
+    def read(file_tail, file_path, separator):
         if file_tail == 'csv':
             try:
-                data_reader = pd.read_csv(file_path, header=None)
+                data_reader = pd.read_csv(
+                    file_path, delimiter=separator, header=None)
             except(FileNotFoundError):
                 print("file_path or file_tail false")
-        elif file_tail == 'xlsx':
+        elif file_tail == 'excel':
             try:
-                data_reader = pd.ead_excel(file_path, header=None)
+                data_reader = pd.read_excel(file_path, header=None)
             except(FileNotFoundError):
                 print("file_path or file_tail false")
         #   Check columns atribute

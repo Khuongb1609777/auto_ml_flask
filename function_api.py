@@ -168,6 +168,7 @@ class API:
             data_encoded = json.dumps(data)
             http = API.http
             url = API.url + "classes/" + str(class_name)
+
         except AttributeError:
             print(
                 "[error] can't find header in API (post function in API class)")

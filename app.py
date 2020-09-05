@@ -5,6 +5,7 @@ from flask_cors import cross_origin
 from flask_cors import CORS
 from data import DATA
 from werkzeug.utils import secure_filename
+from urllib.request import urlretrieve
 import os
 import joblib
 from main_algorithm import *
@@ -55,6 +56,8 @@ def upload_file():
         file_upload = None
         file_upload = request.files.getlist('fileUploaded')[0]
         data_name = request.form.get('dataName')
+        separator = request.form.get('separator')
+        file_tail = request.form.get('fileTail')
         # file_upload = request.files.get('fileUploaded')
         # print(file)
         uId = request.form.getlist('userId')[0]
@@ -83,7 +86,6 @@ def upload_file():
                 app.config['UPLOAD_FOLDER'], filename_upload_random)
         #   save file
         file_upload.save(file_path_upload)
-        file_tail = filename.split(".")[1]
         if(data_name == ""):
             data_name_upload = filename
         else:
@@ -92,9 +94,10 @@ def upload_file():
         print("[error] local variable 'filename' referenced before assignment (upfile function app.py)")
         pass
     try:
-        data, col, n, m = DATA.read(file_tail, file_path_upload)
+        data, col, n, m = DATA.read("csv", file_path_upload, separator)
         data_str = DATA.convert_str(file_path_upload)
         data_str = str(data_str)
+        print(data_str)
         data_post = {
             "jsonData": data_str,
             "dataName": data_name_upload,
@@ -102,7 +105,9 @@ def upload_file():
                 "__type": "Pointer",
                 "className": "_User",
                 "objectId": uId
-            }
+            },
+            "delimiter": separator,
+            "uploadFrom": "folder"
         }
         class_name = "Data"
         data = API.post(class_name, data_post)
@@ -110,7 +115,74 @@ def upload_file():
     except UnboundLocalError:
         print("[error] ")
         return ("fail, can't upload dataset")
-        return ("[Error] BAD REQUEST can't upload data set")
+
+
+@app.route('/upload-file-url', methods=['POST'])
+# @cross_origin()
+def upload_file_url():
+    try:
+        #   Get file
+        url = request.args.get('urlData')
+        data_name = request.args.get('dataName')
+        separator = request.args.get('separator')
+        if(data_name == ""):
+            data_name = "dataset_not_name"
+        user_id = request.args.get('userId')
+    except AttributeError:
+        print("[error] can't find file_upload (upfile function app.py)")
+        pass
+    try:
+        #   Create random id
+        random_id = str(uuid.uuid4())[:8]
+        #   Random file_name
+        filename_upload_random = str(
+            random_id) + "_" + "upload.csv"
+        #   get file_path
+        if(os.path.exists(app.config['UPLOAD_FOLDER'])):
+            file_path_upload = os.path.join(
+                app.config['UPLOAD_FOLDER'], filename_upload_random)
+        else:
+            os.makedirs(app.config['UPLOAD_FOLDER'])
+            file_path_upload = os.path.join(
+                app.config['UPLOAD_FOLDER'], filename_upload_random)
+        #   save file
+        # Save file locally
+        a = urlretrieve(url, file_path_upload)
+        # Read file into a DataFrame and print its head
+    except UnboundLocalError:
+        print("[error] local variable 'filename' referenced before assignment (upfile function app.py)")
+        pass
+    except ValueError:
+        data_return_err = {
+            "error": "unknown url"
+        }
+        return (data_return_err)
+    try:
+        data, col, n, m = DATA.read("csv", file_path_upload, separator)
+        file_name_csv = data_name + ".csv"
+        file_path_save_csv = os.path.join(
+            app.config['UPLOAD_FOLDER'], file_name_csv)
+        export_csv = data.to_csv(file_path_save_csv, index=None, header=True)
+        data_str = DATA.convert_str(file_path_save_csv)
+        data_str = str(data_str)
+        data_post = {
+            "jsonData": data_str,
+            "dataName": data_name,
+            "userUpload": {
+                "__type": "Pointer",
+                "className": "_User",
+                "objectId": user_id
+            },
+            "delimiter": separator,
+            "uploadFrom": "url"
+        }
+        class_name = "Data"
+        data = API.post(class_name, data_post)
+        print(data)
+        return (data)
+    except UnboundLocalError:
+        print("[error] ")
+        return ("fail, can't upload dataset")
 
 
 @app.route('/get-columns-form', methods=['GET'])
@@ -120,13 +192,24 @@ def get_columns_form():
         objectId = request.args.get('objectId')
         className = "Data"
         r = API.get_data_create_model(className, objectId)
-        dataJson = json.loads(r['jsonData'])
-        dataFrame = pd.DataFrame(dataJson)
-        dataAfterCheck = DATA.check_columns_name(dataFrame)
-        indexColumns = dataAfterCheck.columns
-        listIndex = list(indexColumns)
-        arrayIndexJson = json.dumps(listIndex)
-        return (arrayIndexJson)
+        # if(r['uploadFrom'] == "url"):
+        #     data_json = json.loads(r['jsonData'])
+        #     for i in range(len(data_json)):
+        #         data_json[i] = data_json[i][0]
+        #     data_frame = pd.DataFrame(data_json)
+        #     data_after_check = DATA.check_columns_name(data_frame)
+        #     index_columns = data_after_check.columns
+        #     list_index = list(index_columns)
+        #     array_index_json = json.dumps(list_index)
+        #     return (array_index_json)
+        # else:
+        data_json = json.loads(r['jsonData'])
+        data_frame = pd.DataFrame(data_json)
+        data_after_check = DATA.check_columns_name(data_frame)
+        index_columns = data_after_check.columns
+        list_index = list(index_columns)
+        array_index_json = json.dumps(list_index)
+        return (array_index_json)
     except:
         print("[Error] (getColumnsFrom function app.py)")
         return ("[Error] BAD REQUEST can't det columns form")
