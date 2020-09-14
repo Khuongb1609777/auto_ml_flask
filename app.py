@@ -501,9 +501,10 @@ def create_api_model():
                         file_path_test = os.path.join(
                             app.config['DATA_API_FOLDER'], filename_random)
                     file_test.save(file_path_test)
-                    df_test, columns, n, m = DATA.read("csv", file_path_test)
-                except:
-                    print("[error] can't save data, request fail")
+                    df_test, columns, n, m = DATA.read(
+                        "csv", file_path_test, ",")
+                except Exception as e:
+                    print(e)
                     return("[error] can't save data, request fail")
                     pass
                 try:
