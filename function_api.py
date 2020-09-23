@@ -354,7 +354,7 @@ class API:
                 "[Error] bad request, check user id, class name (get_data_user function in API class)")
             pass
 
-    def upload_model_file(url_file_model, user_id, model_name, data_id, algorithm_id, params, col_label, col_label_name, col_feature, col_feature_name, description, addition_header=None):
+    def upload_model_file(url_file_model, user_id, model_name, data_id, algorithm_id, params, col_label, col_label_name, col_feature, col_feature_name, description, evalution, addition_header=None):
         try:
             with open(url_file_model, 'rb') as fp:
                 binary_data = fp.read()
@@ -405,6 +405,7 @@ class API:
                 "colFeature": str(col_feature),
                 "colFeatureName": str(col_feature_name),
                 "description": str(description),
+                "evalution": float(evalution)
             }
             url_upload_DB = API.url + "classes/" + "Model"
             header_upload_DB = API.get_header()

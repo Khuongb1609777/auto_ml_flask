@@ -47,7 +47,9 @@ class algorithm:
                 evalution = 0.0
                 error = ""
                 y_pred = model.predict(X_test)
-                if athm == "LinearRegression":
+                list_regression = [
+                    'GradientBoostingRegression', 'LinearRegression', 'LogisticRegression']
+                if athm in list(list_regression):
                     evalution = mean_squared_error(y_test, y_pred)
                 else:
                     evalution = 100 * metrics.accuracy_score(y_test, y_pred)

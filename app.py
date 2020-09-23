@@ -361,8 +361,15 @@ def create_model():
         athm = request.args.get('algorithm')
         athm_id = request.args.get('algorithmId')
         params = json.loads(request.args.get('params'))
+        # print(params)
         if(params == {}):
             params = None
+            test_size = 0.3
+        else:
+            test_size = float(params['testSize'])
+            if (test_size >= 1.0 or test_size <= 0.0):
+                data = {'error': "0.0 < test size < 1.0"}
+                return (data)
         # get data
         r = API.get_data_create_model(class_name, data_id)
         data_name = r['dataName']
@@ -385,7 +392,7 @@ def create_model():
             np.matrix(dataFrame.columns)).iloc[0, col_label]))
         # get data train, test
         X_train, X_test, y_train, y_test = DATA.get_data_train(
-            dataFrame, col_feature, col_label, 0.3)
+            dataFrame, col_feature, col_label, test_size)
         model, evalution, error, params = get_athm(
             athm, X_train, X_test, y_train, y_test, params)
         if(error != ""):
@@ -408,7 +415,7 @@ def create_model():
             desription = description = "Model " + " use " + str(athm) + " algorithm " + ". " + "Dataset for model is " + str(
                 data_name) + ", columns label is " + str(col_label_name) + " and columns feature is " + str(col_feature_name)
             r_upload = API.upload_model_file(file_name_model, user_id, model_name, data_id,
-                                             athm_id, params, col_label, col_label_name, col_feature, col_feature_name_str, description)
+                                             athm_id, params, col_label, col_label_name, col_feature, col_feature_name_str, description, evalution)
             return (r_upload)
     except:
         print("[error] (createModel function app.py)")

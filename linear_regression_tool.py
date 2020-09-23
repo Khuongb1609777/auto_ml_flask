@@ -13,6 +13,7 @@ class linear_regression_algorithm(algorithm):
         if (custom_params):
             try:
                 custom_params = dict(custom_params)
+                del custom_params['testSize']
             except ValueError:
                 print(
                     "[errorParams] input is not dict, can't parse dict linearegression tool (get params function)")

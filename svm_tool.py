@@ -8,7 +8,8 @@ class svm_algorithm(algorithm):
     params = {
         'c': 1,
         'gamma': 'scale',
-        'degree': 3
+        'degree': 3,
+        'kernel': 'linear'
     }
 
     def getParams(custom_params=None):
@@ -32,7 +33,7 @@ class svm_algorithm(algorithm):
                 data = ERROR.error_params['error_params_SVM']
                 return data
             try:
-                clf = SVC(C=custom_params['C'], kernel='rbf',
+                clf = SVC(C=custom_params['C'], kernel=custom_params['kernel'],
                           degree=custom_params['degree'], gamma=custom_params['gamma'])
                 return clf
             except:
@@ -41,7 +42,7 @@ class svm_algorithm(algorithm):
                 return data
         else:
             try:
-                clf = SVC(C=svm_algorithm.params['c'], kernel='rbf',
+                clf = SVC(C=svm_algorithm.params['c'], kernel=svm_algorithm.params['kernel'],
                           degree=svm_algorithm.params['degree'], gamma=svm_algorithm.params['gamma'])
                 return clf
             except:

@@ -100,7 +100,7 @@ class DATA:
             y_train = ""
             y_test = ""
             X_train, X_test, y_train, y_test = train_test_split(
-                X, Y, test_size=choose_size, random_state=40)
+                X, Y, test_size=choose_size, random_state=40, shuffle=True)
         except UnboundLocalError:
             print("[error] can't get train, test data, check type of data input")
             pass
