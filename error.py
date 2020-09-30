@@ -10,6 +10,7 @@ class ERROR:
         'error_params_Logistic_regression': {"errorParams": "Function parameters logistic regression, please check your parameters again, with logistic regression, params 'pebalty' is 'l1, l2 or elasticnet', tol, C and interceptScaling is floar number (ex: 0.001)"},
         'error_params_ridge_classifier': {"errorParams": "Function parameters ridge classifier, please check your parameters again, with ridge classifier, params alpha is float (ex: 0.001), max_inter is int (ex:3)"},
         'error_params_SGD': {"errorParams": "Function parameters SGD classifier, please check your parameters again"},
+        'error_params_MLP': {"errorParams": "Function parameters MLP classifier, please check your parameters again"},
     }
     error_type = {
         'error_feature_label': {"errorType": "Your data set type is incorrect (feature and label), you have to check it again "}

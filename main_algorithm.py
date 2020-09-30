@@ -9,6 +9,7 @@ from gradient_boosting_regression_tool import gradient_boosting_regression_algor
 from logistic_regression_tool import logistic_regression_algorithm
 from ridge_classifier_tool import ridge_classifier_algorithm
 from stochastic_gradient_descent_tool import SGD_classifier_algorithm
+from mlp_classifier_tool import MLP_classifier_algorithm
 
 
 def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
@@ -130,6 +131,19 @@ def get_athm(athm, X_train, X_test, y_train, y_test, params=None):
                 athm, clf, X_train, X_test, y_train, y_test)
             if (params == None):
                 params = SGD_classifier_algorithm.params
+        except TypeError:
+            print("[error] clf is not define")
+            pass
+        except UnboundLocalError:
+            print("[error] clf is not define")
+            pass
+    elif athm == "MLP_Classifier":
+        try:
+            clf = MLP_classifier_algorithm.getParams(params)
+            model, evalution, error = MLP_classifier_algorithm.models(
+                athm, clf, X_train, X_test, y_train, y_test)
+            if (params == None):
+                params = MLP_classifier_algorithm.params
         except TypeError:
             print("[error] clf is not define")
             pass
