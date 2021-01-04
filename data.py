@@ -1,3 +1,4 @@
+from logging import exception
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -7,34 +8,34 @@ import json
 
 class DATA:
     def read(file_tail, file_path, separator):
-        if file_tail == 'csv':
+        if file_tail == "csv":
             try:
-                data_reader = pd.read_csv(
-                    file_path, delimiter=separator, header=None)
-            except(FileNotFoundError):
+                data_reader = pd.read_csv(file_path, delimiter=separator, header=None)
+            except (FileNotFoundError):
                 print("file_path or file_tail false")
-        elif file_tail == 'excel':
+        elif file_tail == "excel":
             try:
                 data_reader = pd.read_excel(file_path, header=None)
-            except(FileNotFoundError):
+            except (FileNotFoundError):
                 print("file_path or file_tail false")
         #   Check columns atribute
         try:
             list_name = list(data_reader.iloc[0, :])
             list_label = list(
-                data_reader.iloc[1:, len(list_name)-1].drop_duplicates())
+                data_reader.iloc[1:, len(list_name) - 1].drop_duplicates()
+            )
         except UnboundLocalError:
             print("variable data_reader not exist")
         except IndexError:
             print("index error")
         try:
-            if list_name[len(list_name)-1] not in list_label:
+            if list_name[len(list_name) - 1] not in list_label:
                 data_reader = data_reader.drop(0)
                 data_reader.columns = list_name
             else:
                 list_name_col = []
                 for i in range(len(list_name)):
-                    name = 'columns _ ' + str(i)
+                    name = "columns _ " + str(i)
                     list_name_col.append(name)
                 data_reader.columns = list_name_col
             m = data_reader.shape[0]
@@ -56,27 +57,25 @@ class DATA:
             pass
         try:
             list_name = list(data_frame.iloc[0, :])
-            list_label = list(
-                data_frame.iloc[1:, len(list_name)-1].drop_duplicates())
+            list_label = list(data_frame.iloc[1:, len(list_name) - 1].drop_duplicates())
         except AttributeError:
             print("[error] Data input is not dataframe, has no attribute 'iloc'")
             pass
         try:
-            if list_name[len(list_name)-1] not in list_label:
+            if list_name[len(list_name) - 1] not in list_label:
                 data_frame = data_frame.drop(0)
                 data_frame.columns = list_name
                 data_frame = data_frame.reset_index(drop=True)
             else:
                 list_name_col = []
                 for i in range(len(list_name)):
-                    name = 'columns _ ' + str(i)
+                    name = "columns _ " + str(i)
                     list_name_col.append(name)
                 data_frame.columns = list_name_col
                 data_frame = data_frame.reset_index(drop=True)
         except UnboundLocalError:
-            print(
-                "[error] Can't find list_name (check input) ")
-        return (data_frame)
+            print("[error] Can't find list_name (check input) ")
+        return data_frame
 
     def get_data_train(data, col_feature, col_label, choose_size):
         try:
@@ -92,7 +91,8 @@ class DATA:
             pass
         except IndexError:
             print(
-                "[error] check input (label and feature) single positional indexer is out-of-bounds")
+                "[error] check input (label and feature) single positional indexer is out-of-bounds"
+            )
             pass
         try:
             X_train = ""
@@ -100,7 +100,8 @@ class DATA:
             y_train = ""
             y_test = ""
             X_train, X_test, y_train, y_test = train_test_split(
-                X, Y, test_size=choose_size, random_state=40, shuffle=True)
+                X, Y, test_size=choose_size, random_state=40, shuffle=True, stratify=Y
+            )
         except UnboundLocalError:
             print("[error] can't get train, test data, check type of data input")
             pass
@@ -126,43 +127,65 @@ class DATA:
             print("[error] can't find", file, "check file path")
             pass
         if result_str:
-            return (result_str)
+            return result_str
         else:
             return False
 
     def convert_dataframe(data):
         try:
-            r_json = (data).decode('utf8').replace("'", '"')
+            r_json = (data).decode("utf8").replace("'", '"')
             data = json.loads(r_json)
-            data_json = json.loads(data['jsonData'])
+            data_json = json.loads(data["jsonData"])
         except KeyError:
             print("[error] can't request, check class name, objectId")
             pass
         except AttributeError:
             print(
-                "[error] check input type (input of convert_dataframe function must be type(bytes)")
+                "[error] check input type (input of convert_dataframe function must be type(bytes)"
+            )
             pass
         try:
             data_arr = np.array(data_json)
             data_frame = pd.DataFrame(data_arr)
-            return (data_frame)
+            return data_frame
         except UnboundLocalError:
             print("[error] can't find data_json (convert_dataframe function)")
             pass
         except AttributeError:
             print(
-                "[error] check input type (input of convert_dataframe function must be type(bytes)")
+                "[error] check input type (input of convert_dataframe function must be type(bytes)"
+            )
             pass
+
     #     return (file_path_json)
 
     #   Create convert function for return form API parser
     def convert_bytes_to_json(data_bytes):
         try:
-            data_str = (data_bytes).decode('utf8').replace("'", '"')
+            data_str = (data_bytes).decode("utf8").replace("'", '"')
             data_json = json.loads(data_str)
             return data_json
         except AttributeError:
             print("[error] check input type")
             pass
+
+    def get_data_chart(df, feature_name):
+        try:
+            arr = []
+            for i in range(len(df[feature_name].value_counts())):
+                temp = {
+                    "name": str(df[feature_name].value_counts().index[i]),
+                    "value": int(list(df[feature_name].value_counts())[i]),
+                }
+                arr.append(temp)
+            return arr
+        except exception as e:
+            print(e)
+
+    def trung_binh(arr=[]):
+        if len(arr) == 0:
+            return 0
+        else:
+            return float(sum(arr) / (len(arr)))
 
     pass
