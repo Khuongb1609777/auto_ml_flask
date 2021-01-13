@@ -889,6 +889,61 @@ def add_record_obesity():
         pass
 
 
+@app.route("/new-record-survey", methods=["POST"])
+# @cross_origin()
+def new_record_survey():
+    try:
+        new_record = request.args.get("record")
+        new_record = new_record.split(",")
+        class_name = request.args.get("className")
+        df_new_record = pd.DataFrame([new_record])
+        df_new_record.columns = ["meal_of_the_day",
+        "nicotine",
+        "sleep_time",
+        "require_of_job",
+        "park",
+        "time_use_tech_equip",
+        "depression",
+        "breakfast_of_the_week",
+        "protein_of_meal",
+        "water_of_the_day",
+        "vegetable_in_meal",
+        "time_do_exercise",
+        "alcohol",
+        "time_of_sport",
+        "fast_food_of_the_week",
+        "dinner_of_the_week",
+        "obesity"]
+        for i in range(len(df_new_record)):
+            data_post = {
+                "mealOfTheDay": int(df_new_record["meal_of_the_day"][i]),
+                "breakfastOfTheWeek": float(df_new_record["breakfast_of_the_week"][i]),
+                "dinnerOfTheWeek": float(df_new_record["dinner_of_the_week"][i]),
+                "fastFoodOfTheWeek": float(df_new_record["fast_food_of_the_week"][i]),
+                "vegetableInMeal": float(df_new_record["vegetable_in_meal"][i]),
+                "waterOfTheDay": float(df_new_record["water_of_the_day"][i]),
+                "proteinOfMeal": float(df_new_record["protein_of_meal"][i]),
+                "timeDoExcerciseForWeek": float(df_new_record["time_do_exercise"][i]),
+                "sportTimeForWeek": float(df_new_record["time_of_sport"][i]),
+                "alcohol": float(df_new_record["alcohol"][i]),
+                "nicotine": float(df_new_record["nicotine"][i]),
+                "timeSleep": float(df_new_record["sleep_time"][i]),
+                "requireOfJob": float(df_new_record["require_of_job"][i]),
+                "park": float(df_new_record["park"][i]),
+                "timeUseTechEquip": float(df_new_record["time_use_tech_equip"][i]),
+                "depression": float(df_new_record["depression"][i]),
+                "obesity": int(df_new_record["obesity"][i]),
+            }
+            data = API.post(class_name, data_post)
+            return str("ok")
+    except:
+        print("[error] check key (inputColumns) and value")
+        return "[error] check key (inputColumns) and value (check type inputColumns)"
+        pass
+
+
+
+
 @app.route("/get-model-detail", methods=["GET"])
 # @cross_origin()
 def get_model_detail():
