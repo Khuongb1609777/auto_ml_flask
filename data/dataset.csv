@@ -1,0 +1,711 @@
+Chi?u cao (mét),Cân n?ng (Kg) ví d?: 65,S? b?a ?n trong ngày,T?n su?t ?n sáng trong tu?n (??c tính bu?i/tu?n),T?n su?t ?n t?i (sau 21h) trong tu?n (??c tính b?a/tu?n),"T?n su?t s? d?ng th?c ?n nhanh nh? pizza, hamburger (??c tính b?a/tu?n)",L??ng rau c? tiêu th? trong m?i b?a ?n (??c tính gam/b?a ?n),L??ng n??c tiêu th? m?i ngày (??c tính lít/ngày),"Tiêu th? th?c ph?m giàu protein nh?: Th?t bò, th?t gà, phô mai, tr?ng, s?a... (??c tính gam/b?a ?n)",Th?i gian t?p th? d?c trong tu?n (??c tính gi?/tu?n),T?n su?t tham gia các ho?t ??ng th? d?c th? thao (??c tính gi?/tu?n),T?n su?t s? d?ng r??u bia và ?? u?ng có c?n,Hút thu?c lá và các lo?i thu?c ch?a nicotine,Th?i gian ng? trung bình m?i ngày (ti?ng/ngày),Yêu c?u v? ho?t ??ng th? ch?t (lao ??ng chân tay) trong công vi?c hi?n t?i,Khu v?c s?ng có công viên không,"Th?i gian s? d?ng thi?t b? công ngh? (?i?n tho?i, máy tính. laptop...) trong ngày (gi?/ngày)","Tr?m c?m, lo âu và các v?n ?? không ?n ??nh tâm lý"
+180,67,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Nhi?u,Không,10,3,Có,8,Có
+175,58,4,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6-7 ti?ng,2,Có,7 ti?ng,Không
+175,58,4,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6-7 ti?ng,2,Có,7 ti?ng,Không
+165,49,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,8 Gi?,1,Không,2-3 gi?,Không
+168cm,90kg,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,6-7 gi?,1,Không,0,Không
+1m58 ,47,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,5,1,Không,12,Có
+168,64,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,8ti?ng,2,Không,3gi?,Không
+1m67,63,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7 ti?ng,1,Có,10,Không
+1m49,45,4,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,2 ti?ng,2,Không,15/24,Không
+1m77,65,4,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,5,2,Có,4h,Có
+165,47,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,2,Không,5,Không
+1m64,41,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,7 gi? ,1,Không,2 gi? ,Không
+160,44,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,10 gi?,3,Không,8,Không
+1m59,52kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,6 ti?ng,2,Không,4,Không
+1m56,56,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,5 ti?ng,1,Không,?i?n tho?i,Có
+161,45,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8 ti?ng ,1,Không,7 ti?ng ,Không
+1m67,61 kg,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6 ti?ng,1,Không,12 gi?,Có
+1m71,58,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6h,2,Không,6,Có
+1m56,43,3,T? 1 - 3 b?a/tu?n,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,30p,3,Không,2h,Không
+1m60,40,2,Không ?n,M?i ngày,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Có,6 ti?ng,1,Không,4 ti?ng,Có
+1m68,67kg,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8 ti?ng,2,Không,2 gi?/ngày,Không
+1m60,43kg,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8,1,Không,5,Không
+1m55,50,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8 ti?ng,1,Có,4 ti?ng,Không
+155,40,2,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Ít,Không,7 ti?ng,1,Không,10 gi?,Có
+1m52,43kg,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8-9 ti?ng/ngày,2,Có,22h,Có
+1.51,41,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7 ti?ng,1,Không,15 phút ,Không
+1m52,40kg,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,9 ti?ng,2,Không,2 ti?ng,Không
+1m61,52,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8h,1,Không,5h ,Không
+165cm,49kg,4,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,1 - 2 ti?ng,3,Có,7/24,Không
+1m51,40kg,2,Không ?n,Không ?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6-10 ti?ng,1,Không,5h/1ngay,Có
+1.72,61kg,2,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9h,4,Không,5-6h,Không
+1m52,38,2,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,2h,3,Có,10/24,Không
+1m59,59,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6 ti?ng,2,Không,3-4 ti?ng,Không
+1m59,59,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6 ti?ng,2,Không,3-4 ti?ng,Không
+1m56,50,1,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,4 -5 ti?ng,3,Không,2-3h,Không
+1m51,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,6 ti?ng,1,Có,5 tieng,Không
+1m49,43,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,6 ti?ng,1,Không,6-7 ti?ng,Có
+1m71,52kg,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,10 ti?ng,2,Có,Không xác ??nh ???c,Không
+180cm,65kg,3,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,7 ti?ng,2,Có,12h,Không
+170,60,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Không,Không,7,1,Không,7,Không
+170,69,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8_12h,3,Có,4h\ngày,Có
+160cm,44kg,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8 ti?ng,2,Không,6 ti?ng,Không
+1m57,42,3,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,10 gi?,3,Không,7 gi?,Không
+M79,54kg,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Ít,Không,6-7,3,Không,8-9,Không
+1m62,44kg,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8 ti?ng ,1,Không,20/24,Không
+170,55,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,M?i ngày,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6 ti?ng,1,Có,2h/ngày,Có
+1.60,49,4,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,21h30,3,Không,4h,Không
+1m33,56,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,7-8 ti?ng,1,Không,1-2 ti?ng,Không
+172,62,5,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Trên 3 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Nhi?u,Không,9 gi?,5,Không,khá là nhi?u ,Không
+158cm,41kg,1,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,6h10',2,Có,6h,Không
+172,47,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7 ??n 8 ti?ng,3,Không,3-4 ti?ng,Không
+154 cm,45 kg,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,6 ti?ng,1,Không,4 gi?,Không
+1m58,50kg,2,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8-10 ti?ng,2,Không,7h/ngày,Không
+156cm,70,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8 ti?ng,4,Không,3-4 ti?ng,Không
+1m65,51,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,2 gi?,2,Không,4,Không
+1m60,46,2,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6-7,3,Không,5,Có
+1.73,67kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,12h,2,Có,15,Không
+1m73,45,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,H?n 6h ,3,Có,H?n 4h ,Có
+178cm,53,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,8 ti?ng,1,Không,2/24,Không
+1m76,72,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,5-6h,1,Không,3h,Có
+1m58,56,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Có,7,3,Không,6,Không
+1m63,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,9 ti?ng,1,Có,8-9 ti?ng m?i ngày,Không
+1m66,47kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7 ti?ng,3,Không,4 ti?ng,Có
+156,38,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,Trên 10 gi? ??ng h? ,1,Có,3-4 gi? ??ng h? ,Có
+1m68,60kg,2,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,9h,3,Không,10h/ngày,Không
+150,36,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,3,Không,3,Không
+1m58,57kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,1,Không,10h,Có
+1m55,39,3,T? 3 - 6 b?a/tu?n,M?i ngày,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6h,3,Không,H?n 4h,Có
+M6,46kg,2,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,16 ti?ng,4,Có,24/7,Không
+1m59,47kg,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,1 ti?ng ,3,Có,10h,Không
+173,60,2,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Có,4,3,Có,7 ti?ng,Không
+1m67,53,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,6-7 ti?ng ,2,Không,7 gi?,Không
+156,43,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6 ti?ng,1,Không,6 ti?ng,Có
+1m48,37.5kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6-7 ti?ng,3,Có,15gi?/ngày,Không
+1m59,44,2,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,8-9 ti?ng,1,Không,24/18,Có
+1m72,56kg,4,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Trung bình,Không,7h,4,Không,4h,Không
+1m58,42,2,Không ?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,9-10 ti?ng,1,Không,Nhi?u,Không
+155,42,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7 gi?,2,Không,5 gi?/ngày,Không
+1m52,54kg,2,Không ?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8 ti?ng,1,Không,10 ti?ng,Có
+163,73,2,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6,2,Không,4,Không
+154,45,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,7-9 ti?ng,1,Không,4-6 ti?ng,Không
+175,69,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6 gi? m?i ngày,1,Không,3-4h,Không
+163,42,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8 ti?ng,3,Không,6 ti?ng,Không
+1m66,49kg,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8 ti?ng,1,Có,4 gi?,Có
+160,40,2,T? 1 - 3 b?a/tu?n,M?i ngày,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,1,Có,8,Không
+1m65,46,2,Không ?n,M?i ngày,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,6 ti?ng,2,Không,4 ti?ng,Không
+161,56,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,10h,1,Có,5h,Có
+150,53,3,Không ?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6 ti?ng ,1,Không,8 ti?ng,Không
+1m58,39kg,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8 ti?ng,3,Không,8,Có
+1m59,47kg,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,Tr?a:1-2 ti?ng,3,Không,3-4h,Không
+150,45,2,Không ?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,6 ti?ng 30 phút,1,Không,2-3 ti?ng ho?c h?n,Không
+1m53,45kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,7 ti?ng,2,Không,?i?n tho?i,Không
+1m66,51kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8 ti?ng,5,Không,6 gi?/ngày,Không
+162,53,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,7 ti?ng ,1,Không,5 gi? ,Không
+167,65,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7 ti?ng,2,Có,5 gi?,Không
+1m55,52kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,6-7 ti?ng,1,Có,5 ti?ng/ngày,Không
+1m50,39kg,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,8 ti?ng ,1,Không,6-7 ti?ng,Không
+1m65,105,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8 gi?,2,Không,5,Không
+1m63,48.5,2,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,6 ti?ng,1,Không,3-4 ti?ng,Không
+1m65,62,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7tieng,1,Không,R?nh là s? d?ng ,Có
+1m75,64kg,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,4-5 ti?ng,1,Có,6 7 ti?ng,Không
+1m67,63kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6h,5,Có,5 gi?,Không
+1m50,35,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,3h,3,Không,Kho?ng 4h,Có
+170 cm,52 kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,7h-8h,3,Có,3h-4h,Có
+170cm,55,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Có,5,Không
+1.53,43,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7 ti?ng,3,Không,4/24,Không
+165,40,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8 ti?ng ,2,Không,3 gi?,Không
+160cm,57kg,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,9 ti?ng,1,Không,4-5 gi?/ngày,Không
+1m67,68,3,T? 3 - 6 b?a/tu?n,M?i ngày,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8h,4,Không,2 gi?? ,Không
+153cm,37,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8h,3,Không,5h/ngay,Không
+160,52,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,6,1,Có,12/24,Không
+1m67,45kg,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,2-3 gi?,2,Không,4gi?,Không
+160 cm,70 kg,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,7,1,Không,8,Không
+1m73,68,2,T? 3 - 6 b?a/tu?n,M?i ngày,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,8,1,Không,4,Không
+157,51,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,8 gi?,4,Có,5h/ngày,Không
+158,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,7 ti?ng,3,Không,5/1,Không
+158cm,57kg,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7 ti?ng,2,Không,10/ngày,Không
+1m72,48,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,1,Không,15p,Không
+1m64,53kg,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,10h,2,Không,4h,Không
+1m68,61,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,6 ti?ng,3,Có,2 ti?ng ??n 3 ti?ng,Có
+160cm,65kg,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,7h,1,Không,6h,Không
+162cm,51kg,2,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,7 ti?ng,1,Không,3 gi?,Có
+150,49,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,5tieng,3,Không,4,Có
+172cm,56kg,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,8-9 ti?ng,1,Không,5,Không
+1m59,50kg,2,Không ?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,T? 1-4ti?ng,3,Có,3-10 ti?ng/ngày,Không
+1m51,41,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6 ti?ng,4,Không,4 ti?ng,Không
+165,58,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Ít,Không,7,1,Không,3,Không
+1m58,58,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,6h,3,Có,2h,Không
+175,70,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Trung bình,Không,7 ti?ng,3,Có,4h,Không
+1m56,40kg,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,9 ti?ng,2,Không,8 gi?/ngày,Không
+1m63,42kg,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,10 ti?ng,1,Có,4 gi? ,Có
+1m64,55kg,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,8 ti?ng,3,Không,Không,Không
+1.74,78,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Trung bình,Không,7 ti?ng,3,Không,3-5 ti?ng,Không
+168,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Ít,Không,5,2,Có,15,Không
+173,62,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Ít,Không,6,2,Có,12,Không
+165,78,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Nhi?u,Có,5,2,Có,16,Không
+166,60,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,5h,4,Có,14,Không
+1.68 m,65kg,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,D??i 2 gi?,Ít,Không,7 ti?ng,1,Không,12h,Không
+1.65,68,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,D??i 2 gi?,Ít,Không,6h,2,Có,16h,Không
+170,50,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,6h,1,Có,2h,Có
+1m70,48,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Nhi?u,Không,7,1,Không,16,Có
+1m6,43kg,3,T? 1 - 3 b?a/tu?n,M?i ngày,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6-8 ti?ng,2,Không,3 gi?,Có
+46,46,2,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,Trên 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8tiê?ng ,5,Có, 20 phu?t ,Không
+156,80,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Trên 3 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Ít,Không,7h,1,Có,14,Không
+157,46,2,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,Trên 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8tiê?ng ,5,Có,20phu?t ,Không
+172,62,2,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Nhi?u,Có,3h,1,Không,21h,Có
+170,73,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,7,2,Có,16,Có
+165,50,4,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Trung bình,Không,7,1,Có,12,Có
+168cm,69kg,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,60 phút,1,Không,10 gi?,Có
+165,68,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,6h,1,Có,14,Không
+1m53,40kg,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,7-8 ti?ng,1,Có,3 gi?/ngày,Không
+169,75,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,7 ti?ng,2,Không,5,Không
+163,65,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,6.5h,1,Không,> 8h,Không
+163,65,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,6.5h,1,Không,> 8h,Không
+165,45,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Trên 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8,1,Có,10,Có
+1m62,59,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,8,2,Có,2,Không
+168,61,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6,1,Có,14,Không
+1m49,40,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,11 ti?ng ,2,Có,1 ti?ng,Không
+1m73,52kg,4,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8 ti?ng,1,Có,4 ti?ng,Không
+1m55,47,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,Trên 3 gi?,Trên 4 gi?,Ít,Không,8 ti?ng,3,Không,Lúc r?nh,Không
+1m63,51kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8h,1,Có,1-3gi?,Không
+162,40,2,Không ?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8 gi?,3,Không,5 gi?,Không
+1m65,58kg,4,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,6h,3,Không,5h,Có
+160,58,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8 ti?ng,3,Không,4,Không
+168,61,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,6,1,Có,14,Không
+1m6 ,45,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,T? 7 ??n 8 ti?ng ,1,Không,4 ??n5 gi?,Có
+1.65,50,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,5-6 gi?,4,Không,3-4,Không
+1m55,55kg,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,8 ti?ng,2,Không,Kho?ng 12h ,Không
+160,52,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6 ti?ng,1,Có,3,Không
+130,21,2,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,9,1,Không,6,Không
+150,45,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,11,2,Không,4,Không
+175,55,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Có,6 ti?ng,1,Có,6 ti?ng,Không
+1.74,86,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,1,Có,5,Không
+1m70,70,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6g,3,Không,7g,Không
+152,43.5,2,T? 1 - 3 b?a/tu?n,M?i ngày,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7 ti?ng ,2,Không,trên 10,Không
+164,49,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,5h,3,Có,5h,Không
+1m51,36,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8h,2,Có,5h,Không
+1m61,51.7,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7 gi?,1,Không,8 gi?,Có
+157,57,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,6,2,Không,10/24,Không
+160,52,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7-8 ti?ng,1,Không,C? ngày,Không
+1m6,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,6h,2,Không,4,Không
+167,87,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6 ti?ng,2,Không,10h,Không
+1m82,75,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,9h,3,Không,12,Không
+176,73,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,Trên 4 gi?,Ít,Có,4 ti?ng,2,Có,12 ti?ng,Không
+175,75,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Trung bình,Không,8,1,Có,10,Không
+157cm,45kg,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,D??i 2 gi?,Không,Không,7 ti?ng,1,Không,4 ti?ng,Không
+150,43,3,M?i ngày,M?i ngày,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,3,Không,Nhìu,Không
+160,53,2,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8-9 ti?ng,3,Không,10h/ngày,Không
+173,58,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,T? 2 - 4 gi?,Trung bình,Không,9h,1,Có,8h,Không
+1m52,38kg,3,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,M?i ngày,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,10 - 12 ti?ng,1,Có,5 ti?ng,Không
+174,67,3,Không ?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Trung bình,Có,8,1,Không,12,Không
+172,80,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Nhi?u,Không,5,3,Không,8,Không
+1m69,70,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,6,2,Có,5,Không
+165,68,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Nhi?u,Không,6-7 ti?ng,3,Không,6 ti?ng,Không
+1.73,67kg,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Th??ng xuyên,Không,7tieng,5,Không,5,Không
+1.57,55,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,6 - 7h,1,Không,18h,Không
+1m57,57,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,D??i 2 gi?,Trung bình,Không,7,2,Không,8-10,Không
+1m85,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7h,3,Có,30 phút,Không
+163,46,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,6h,1,Có,10h,Không
+1m53,43,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,9h,2,Có,1 ngày /8h,Không
+170,69,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,Trên 4 gi?,Trung bình,Không,6,3,Có,5,Không
+165 cm,"48,5 kg",2,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,5 ti?ng,1,Không,8 ti?ng,Không
+167,72,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Trung bình,Không,7h,3,Không,8,Không
+1m70,57 kg,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8 ti?ng,4,Có,8 gi?/ngày,Không
+1m54,"44,5kg",3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,Ít h?n 50 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,8 ti?ng ,2,Không,24/24,Có
+167,55,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,1,Có,4,Có
+169,80,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,5,1,Không,5,Không
+156,50,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8 ti?ng,1,Có,10 ti?ng,Không
+1760,65,4,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Trung bình,Không,7 ti?ng,3,Có,5,Không
+169,70,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Th??ng xuyên,Không,8,1,Không,5,Không
+1.52,38,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,2,Không,3,Không
+1.63,43,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,1,Không,2,Không
+1.52,38,2,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,10,Không
+1.50,40,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,10,2,Không,9,Không
+1.64,48,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,2,Không,4,Không
+1.59,43,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Không
+1.60,55,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,7,1,Không,5,Không
+1.59,67,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,3,1,Không,4,Không
+1.58,45,1,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,5,1,Không,6,Không
+1.70,64,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,3,Không,4,Không
+1.60,50,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6,3,Không,3,Không
+1.65,49,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6,3,Không,3,Không
+1.78,80,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Trên 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,4,4,Không,1,Không
+1.61,49,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,2,Không
+1.58,65,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,3,Không,2,Không
+1.49,37,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,4,Không
+1.50,42,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,G?n nh? không,Ít,Không,9,3,Có,3,Không
+1.62,57,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,10,3,Không,4,Không
+1.79,78,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,10,3,Không,10,Không
+1.47,47,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,10,3,Không,4,Không
+1.73,46,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,6,Không
+1.47,45,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,2,Không,4,Không
+1.70,53,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,11,3,Không,6,Không
+1.69,56,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,2,Không,3,Không
+1.60,44,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,8,3,Không,5,Không
+1.50,38,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,2,Không,4,Không
+1.59,55,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,6,Không
+1.62,50,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,2,Không,3,Không
+1.80,75,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,2,2,Không,5,Không
+1.82,95,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.59,53,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,6,Không
+1.48,43,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,2,Không,6,Không
+1.58,42,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,10,2,Không,5,Không
+1.60,40,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,6,Không
+1.59,43,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Không
+1.65,48,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Trung bình,Không,7,1,Không,4,Không
+1.68,63,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,3,Không
+1.65,45,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,3,Không
+1.69,81,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,3,Không
+1.64,38,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,3,Không,3,Không
+1.72,50,2,Không ?n,T? 1 - 3 b?a/tu?n,M?i ngày,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,8,3,Không,12,Không
+1.69,50,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,12,1,Không,2,Không
+1.80,70,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,G?n nh? không,Ít,Không,8,4,Không,2,Không
+1.68,48,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,8,Không
+1.71,49,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,10,3,Không,5,Không
+1.65,56,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,1,Không
+1.50,36,3,T? 1 - 3 b?a/tu?n,M?i ngày,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8,3,Không,4,Không
+1.50,45,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9,3,Có,3,Không
+1.78,75,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,2,Không,1,Không
+1.56,54,4,M?i ngày,M?i ngày,M?i ngày,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,8,Không
+1.66,55,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.68,70,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,8,4,Không,5,Không
+1.60,49,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,3,Có
+1.70,75,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,4,Không,4,Không
+1.70,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,5,Không
+1.53,40,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,7,3,Không,4,Không
+1.55,54,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,3,Không,1,Không
+1.59,46,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,8,2,Không,4,Không
+1.65,48,2,T? 1 - 3 b?a/tu?n,M?i ngày,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Không
+1.56,52,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Ít,Không,8,4,Không,4,Không
+1.64,42,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,10,2,Không,12,Không
+1.63,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7,4,Có,5,Không
+1.65,58,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,1,Không,5,Không
+1.65,60,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,2,Không,1,Không
+1.78,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,12,Không
+1.54,50,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,11,1,Không,1,Không
+1.70,70,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,6,3,Có,5,Không
+1.62,58,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,2,Không,11,Không
+1.65,55,2,Không ?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Trung bình,Có,7,4,Không,2,Không
+1.58,45,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,10,2,Không,2,Không
+1.53,64,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,2,Không,1,Không
+1.53,42,3,M?i ngày,Không ?n,M?i ngày,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,8,1,Không,2,Không
+1.65,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,10,4,Không,1,Không
+1.52,49,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,2,Không,2,Không
+1.56,56,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,1,Không
+1.53,42,3,M?i ngày,M?i ngày,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,6,1,Không,3,Không
+1.55,48,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,4,Không,2,Không
+1.85,75,4,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,Trên 100 gram,Trên 3 gi?,G?n nh? không,Trung bình,Có,8,4,Có,2,Không
+1.55,60,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,4,Không,2,Không
+1.75,54,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,6,2,Không,8,Không
+1.55,47,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,4,Không,2,Không
+1.62,55,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Có,7,3,Có,2,Không
+1.68,58,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,9,2,Không,1,Không
+1.72,73,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,2,Không,4,Không
+1.78,72,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,8,4,Không,4,Không
+1.65,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,D??i 2 gi?,Ít,Không,8,4,Không,1,Không
+1.75,71,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,D??i 2 gi?,Ít,Không,8,2,Không,4,Không
+1.70,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Trung bình,Có,7,4,Không,1,Không
+1.62,65,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,7,2,Không,6,Có
+1.70,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,8,4,Không,4,Không
+1.60,51,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,2,Không,7,Không
+1.75,55,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,4,Có,10,Không
+1.50,56,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Không
+1.57,59,4,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,4,Có,1,Không
+1.63,41,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Ít,Có,8,2,Không,8,Không
+1.55,50,3,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,9,3,Không,1,Không
+1.62,70,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Ít,Không,8,2,Không,18,Không
+1.60,68,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,3,Không,1,Không
+1.64,49,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,6,Không
+1.63,52,4,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,4,Không,5,Có
+1.78,70,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,4,Có,3,Không
+1.58,45,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Không,6,Không
+1.61,61,3,M?i ngày,M?i ngày,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,3,Không,2,Không
+1.60,70,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,5,1,Không,8,Có
+1.67,54,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,2,Không,2,Không
+1.81,60,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Nhi?u,Không,7,3,Có,3,Không
+1.57,60,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,1,Không
+1.65,58,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,4,Không,3,Không
+1.65,55,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,1,Không
+1.68,60,4,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Có,7,3,Không,1,Không
+1.55,49,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,9,2,Không,2,Không
+1.79,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,8,4,Không,3,Không
+1.70,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,4,Không
+1.62,53,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Có,1,Không
+1.65,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,3,Không,5,Không
+1.60,50,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,6,2,Không,2,Không
+1.72,63,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,8,4,Không,1,Không
+1.60,53,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,4,Không,1,Không
+1.55,60,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,5,2,Không,1,Không
+1.55,60,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,5,2,Không,1,Không
+1.60,50,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,9,3,Không,1,Không
+1.52,53,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,8,1,Không,6,Không
+1.67,55,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,4,Không,3,Không
+1.78,65,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Trung bình,Có,10,1,Không,1,Không
+1.78,58,3,Không ?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Nhi?u,Có,7,5,Không,4,Không
+1.68,57,4,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Có,8,3,Không,2,Không
+1.65,52,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,7,5,Không,1,Không
+1.54,49,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,Trên 3 gi?,G?n nh? không,Trung bình,Không,6,3,Không,1,Không
+1.70,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Không,8,5,Không,3,Không
+1.65,60,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Có,8,3,Không,3,Không
+1.55,58,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Có,8,3,Không,2,Không
+1.60,49,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,2,4,Không,1,Không
+1.50,50,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,1,Không,2,Không
+1.59,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,12,3,Không,3,Không
+1.56,56,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,5,3,Không,5,Không
+1.73,93,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,3,Không,3,Không
+1.58,43,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,12,2,Có,3,Không
+1.59,65,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,7,Không
+1.43,40,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,12,3,Không,8,Không
+1.51,43,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,5,Không
+1.68,69,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Có,6,Không
+1.60,49,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Nhi?u,Không,7,3,Không,4,Không
+1.55,40,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.54,37,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,3,Không,6,Không
+1.65,50,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,2,Không,3,Không
+1.55,43,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,10,2,Không,1,Không
+1.60,53,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,7,3,Không,5,Không
+1.55,37,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Th??ng xuyên,Có,9,1,Không,5,Không
+1.61,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6,3,Không,10,Không
+1.71,60,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,2,Không,4,Không
+1.52,43,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,3,Không,6,Không
+1.60,50,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,3,Không,8,Không
+1.62,59,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9,3,Không,3,Không
+1.60,53,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,8,3,Có,5,Không
+1.57,40,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,9,2,Không,10,Không
+1.58,45,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,10,2,Không,8,Không
+1.75,58,4,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,9,3,Không,5,Không
+1.70,62,2,Không ?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Có,5,Không
+1.79,59,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,8,1,Không,5,Không
+1.53,41,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,7,3,Không,7,Không
+1.62,52,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,2,Không,3,Không
+1.58,46,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,1,Không,4,Không
+1.52,38,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,10,3,Không,5,Không
+1.60,55,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Không,Không,6,3,Có,6,Không
+1.77,77,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,8,3,Có,7,Không
+1.57,43,3,M?i ngày,M?i ngày,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,12,1,Không,6,Không
+1.61,48,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,Trên 4 gi?,Không,Không,7,3,Có,18,Không
+1.67,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9,3,Có,6,Không
+1.64,48,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,2,Không,4,Không
+1.50,50,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,4,Không
+1.65,51,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Ít,Không,10,3,Có,5,Không
+1.52,47,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,10,1,Không,4,Không
+1.58,42,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Ít,Không,5,3,Không,4,Không
+1.60,45,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,3,Không,3,Không
+1.55,80,4,M?i ngày,M?i ngày,M?i ngày,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,12,1,Có,6,Không
+1.77,51,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,8,2,Có,3,Không
+1.70,53,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,2,Có,3,Không
+1.63,50,4,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,7,2,Có,2,Không
+1.55,41,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,3,Không,3,Không
+1.58,47,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,3,Không,3,Không
+1.58,45,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,3,Không,2,Không
+1.52,45,4,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,2,Không
+1.63,50,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,9,3,Có,3,Không
+1.60,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,9,3,Không,3,Không
+1.65,50,4,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,2,Không
+1.60,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,5,3,Không,4,Không
+1.62,43,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,2,Không,2,Không
+1.50,40,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,7,2,Không,2,Không
+1.52,42,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Có,6,Không
+1.70,57,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,Trên 4 gi?,Không,Không,8,3,Không,3,Không
+1.60,55,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,Trên 4 gi?,Không,Không,6,3,Không,2,Không
+1.62,45,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,9,2,Có,5,Không
+1.59,60,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,2,Không
+1.56,37,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Có,5,Không
+1.50,45,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Có,5,Không
+1.60,47,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,9,3,Có,6,Không
+1.59,46,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,4,Không,2,Không
+1.66,53,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,M?i ngày,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,8,2,Không,6,Không
+1.62,47,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,2,Không,2,Có
+1.61,44,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7,2,Không,5,Không
+1.57,56,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,8,2,Không,5,Không
+1.56,43,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,6,3,Không,8,Không
+1.64,44,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,2,Có,5,Không
+1.65,44,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,2,Không,3,Không
+1.52,44,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,9,4,Không,6,Không
+1.75,52,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,3,Không
+1.60,47,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,9,1,Không,4,Có
+1.52,43,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,4,Có
+1.70,65,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7,4,Không,5,Không
+1.56,44,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7,3,Không,4,Không
+1.65,55,4,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7,3,Có,5,Không
+1.73,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,Trên 3 gi?,T? 2 - 4 gi?,Trung bình,Không,8,3,Không,5,Không
+1.70,48,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Trung bình,Có,8,3,Không,3,Không
+1.68,61,4,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,2,Không,3,Không
+1.78,74,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Có,8,4,Không,7,Không
+1.73,70,3,M?i ngày,T? 3 - 6 b?a/tu?n,M?i ngày,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Trung bình,Có,8,4,Không,7,Không
+1.62,60,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.58,50,2,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Trung bình,Có,8,3,Không,3,Không
+1.64,53,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,7,Không
+1.65,50,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,2,Không
+1.72,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,1,Không
+1.63,47,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,1,Không
+1.70,65,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,5,Không
+1.63,53,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,10,3,Không,2,Không
+1.64,70,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,10,3,Không,2,Không
+1.57,38,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,1,Không,5,Không
+1.60,63,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,2,Không,2,Không
+1.60,52,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,3,3,Không,4,Không
+1.58,44,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,2,Không,4,Không
+1.58,42,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,1,Không,5,Không
+1.64,50,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Trung bình,Có,8,3,Không,5,Không
+1.50,33,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,6,Không
+1.50,41,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.50,36,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,6,Không
+1.67,43,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,2,Không
+1.68,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,1,Không,1,Không
+1.51,35,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,2,Không,4,Không
+1.58,47,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,3,Không,6,Có
+1.53,55,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,3,Không,1,Không
+1.68,52,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,6,Không
+1.63,44,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,1,Không,6,Không
+1.60,48,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,7,3,Không,2,Không
+1.56,49,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Trung bình,Không,8,3,Không,5,Không
+1.62,62,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,8,2,Có,12,Không
+1.55,52,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,1,Không,8,Không
+1.60,62,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,Trên 3 gi?,Trên 4 gi?,Ít,Không,8,4,Không,4,Không
+1.62,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,5,Không,4,Không
+1.50,52,3,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,1,Có,5,Không
+1.59,60,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,6,1,Không,2,Không
+1.63,72,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8,1,Không,3,Không
+1.67,49,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,6,4,Không,4,Không
+1.67,60,3,Không ?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,6,4,Không,5,Không
+1.72,58,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,1,Không,2,Không
+1.64,47,2,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,10,2,Không,7,Không
+1.52,40,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,4,Không
+1.56,50,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,6,Không
+1.69,44,3,Không ?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,10,2,Không,5,Không
+1.66,44,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,7,3,Không,3,Không
+1.75,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,9,3,Không,2,Không
+1.53,40,4,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,7,3,Có,3,Không
+1.66,50,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,3,Không,1,Không
+1.66,55,2,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,3,Không
+1.51,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,2,Có,6,Không
+1.66,79,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,5,3,Có,4,Có
+1.69,53,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,Trên 4 gi?,Không,Không,8,4,Không,2,Không
+1.76,80,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Có,10,2,Không,4,Không
+1.62,72,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,7,4,Có,4,Không
+1.70,54,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Có,3,Không
+1.73,95,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,Trên 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Th??ng xuyên,Không,7,3,Có,4,Không
+1.64,52,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,3,Không,6,Không
+1.62,48,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,3,Không,4,Không
+1.65,55,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,4,3,Không,5,Không
+1.52,42,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,5,2,Không,2,Có
+1.61,60,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,6,3,Có,4,Không
+1.65,45,3,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,1,Không
+1.60,46,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,M?i ngày,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,6,3,Không,4,Không
+1.70,50,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6,3,Không,4,Không
+1.80,48,3,M?i ngày,T? 1 - 3 b?a/tu?n,M?i ngày,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,11,4,Có,5,Không
+1.72,67,5,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,3,Không,2,Không
+1.66,53,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,10,4,Có,4,Có
+1.60,66,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Có,4,Không
+1.61,44,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,1,Không,4,Không
+1.60,57,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,2,Có,4,Không
+1.66,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,3,Không,3,Không
+1.61,60,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Có,4,Có
+1.72,57,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,8,3,Không,5,Không
+1.65,41,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Ít,Không,7,3,Không,10,Không
+1.67,76,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,4,Không
+1.72,49,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,2,Không,5,Không
+1.69,50,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,4,Không
+1.60,54,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,3,Có,5,Không
+1.64,50,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,6,Không
+1.54,47,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,2,Có,3,Không
+1.54,39,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,10,2,Không,7,Không
+1.52,51,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,5,5,Có,3,Không
+1.49,40,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,10,2,Không,6,Không
+1.60,47,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,3,Không,4,Không
+1.73,59,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,8,2,Không,4,Không
+1.63,49,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,6,3,Không,3,Không
+1.60,48,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,4,1,Có,12,Không
+1.60,51,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,1,Có,5,Không
+1.80,55,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Có,4,Không
+1.63,58,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,6,2,Không,6,Không
+1.67,90,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,1,Không,3,Không
+1.69,57,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6,2,Có,3,Không
+1.63,44,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Có,10,Không
+1.67,44,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Có,8,Không
+1.50,45,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,3,Không,10,Không
+1.66,54,4,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.72,55,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,8,3,Không,1,Không
+1.64,53,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,1,Không,2,Không
+1.65,46,3,Không ?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,6,2,Không,4,Không
+1.73,55,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,3,Có,10,Không
+1.69,56,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,6,3,Không,2,Không
+1.82,53,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Có
+1.65,47,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,Trên 4 gi?,Ít,Không,8,2,Không,4,Không
+1.56,45,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,9,3,Không,3,Không
+1.60,52,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,5,3,Không,10,Không
+1.64,63,4,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,4,Có,4,Không
+1.61,54,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,8,Không
+1.50,45,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,2,Không,5,Không
+1.62,52,2,Không ?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,5,Không
+1.63,44,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,7,Không
+1.50,40,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,2,Không
+1.58,41,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,2,Không,7,Không
+1.47,40,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,2,Không,7,Không
+1.50,43,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,10,3,Không,2,Không
+1.73,54,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,2,Có,5,Không
+1.53,46,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,5,3,Có,3,Có
+1.56,68,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Ít,Không,7,1,Không,5,Không
+1.57,54,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,3,Không,3,Không
+1.63,38,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,1,Không
+1.53,52,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,1,Không,4,Không
+1.82,58,3,M?i ngày,M?i ngày,M?i ngày,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,8,3,Không,8,Không
+1.64,57,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,3,Không
+1.62,50,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,2,Không,4,Không
+1.65,50,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,5,Không
+1.67,68,5,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Trên 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,5,Không,8,Có
+1.56,53,3,T? 3 - 6 b?a/tu?n,M?i ngày,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,6,3,Không,6,Không
+1.51,44,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,3,Không,4,Không
+1.48,43,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,6,3,Không,2,Không
+1.61,45,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,2,Không
+1.55,39,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,7,2,Không,4,Không
+1.71,56,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.56,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,4,Không
+1.50,47,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,11,3,Không,3,Không
+1.60,50,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,D??i 2 gi?,Không,Không,11,5,Không,1,Không
+1.58,52,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,1,Không,3,Không
+1.59,49,4,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,6,1,Không,3,Không
+1.49,41,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,5,Không
+1.50,44,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,4,Không
+1.53,45,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.80,66,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,4,Không,4,Không
+1.68,98,4,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,2,Không,4,Không
+1.60,54,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,3,Không
+1.52,45,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,4,Không,3,Không
+1.51,39,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.48,46,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,3,Không
+1.59,53,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.72,50,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,10,3,Không,5,Không
+1.76,80,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,6,3,Không,4,Không
+1.65,50,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7,2,Không,1,Không
+1.58,52,4,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Ít,Không,7,2,Không,12,Không
+1.59,50,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,4,Không,3,Không
+1.62,49,3,Không ?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,4,Không,2,Không
+1.63,45,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,7,4,Không,3,Không
+1.68,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.55,46,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,4,Không
+1.65,45,4,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.48,43,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,1,Không,6,Không
+1.69,55,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Ít,Không,8,3,Không,5,Không
+1.67,53,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,2,Không,1,Không
+1.55,47,3,T? 1 - 3 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,6,3,Không,3,Không
+1.63,54,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,D??i 2 gi?,Không,Không,12,3,Không,7,Không
+1.53,53,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,4,Không
+1.75,76,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,8,3,Không,3,Không
+1.70,75,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,3,Không
+1.67,65,4,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,8,2,Không,4,Không
+1.59,43,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9,1,Không,3,Không
+1.54,45,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,6,3,Không,3,Không
+1.65,57,4,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.65,42,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,10,3,Không,4,Không
+1.59,49,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,10,3,Không,4,Không
+1.63,80,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,8,1,Có,15,Không
+1.75,70,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,7,3,Có,5,Không
+1.63,49,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,9,5,Không,4,Không
+1.69,70,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Không,Không,8,2,Có,5,Không
+1.62,46,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,4,Không
+1.68,58,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,7,4,Không,4,Không
+1.77,75,4,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,8,3,Có,2,Không
+1.66,44,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,10,4,Không,3,Không
+1.68,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Không,Không,6,1,Có,10,Không
+1.72,56,3,Không ?n,M?i ngày,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,T? 2 - 4 gi?,Ít,Không,8,3,Không,4,Không
+1.57,42,3,T? 3 - 6 b?a/tu?n,M?i ngày,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,3,Không,5,Không
+1.70,54,3,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,5,Không
+1.61,52,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,5,3,Không,3,Không
+1.70,58,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,3,Không
+1.75,75,3,M?i ngày,M?i ngày,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,4,Không
+1.75,59,2,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,Trên 3 gi?,Trên 4 gi?,Ít,Có,7,1,Không,8,Có
+1.75,70,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,7,3,Có,5,Không
+1.52,58,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,6,3,Có,3,Không
+1.54,50,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Ít,Không,10,2,Không,5,Có
+1.63,43,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,Trên 3 gi?,T? 2 - 4 gi?,Ít,Không,6,3,Có,7,Không
+1.60,50,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,6,2,Không,6,Không
+1.54,37,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,7,1,Có,3,Có
+1.54,43,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Trung bình,Không,8,3,Không,3,Không
+1.65,46,3,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,7,Không
+1.50,37,2,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,8,2,Không,4,Không
+1.52,43,2,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,7,1,Không,10,Có
+1.51,48,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,4,Không,3,Có
+1.61,41,2,T? 1 - 3 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Không,4,Không
+1.82,60,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Ít,Không,8,3,Không,2,Không
+1.62,54,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Không,10,1,Không,3,Có
+1.65,47,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,Trên 4 gi?,Ít,Không,7,3,Không,3,Không
+1.66,75,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,1,Không
+1.83,54,2,Không ?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,7,3,Không,7,Không
+1.61,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,2,Không
+1.55,40,4,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,7,1,Có,6,Không
+1.62,42,3,M?i ngày,M?i ngày,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Ít,Không,8,3,Không,3,Không
+1.53,49,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,3,Không,2,Không
+1.56,45,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,D??i 2 gi?,Không,Không,7,3,Không,4,Không
+1.57,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,10,1,Không,3,Không
+1.53,40,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,10,2,Không,3,Có
+1.53,40,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,3,Không,3,Không
+1.58,47,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,3,Có
+1.54,47,2,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,G?n nh? không,Không,Không,10,2,Không,4,Không
+1.53,47,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Ít,Có,7,2,Không,3,Có
+1.60,50,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,T? 2 - 4 gi?,Không,Không,7,2,Không,1,Không
+1.60,41,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,2,Không,3,Không
+1.63,50,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,9,1,Không,4,Không
+1.63,75,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,11,3,Không,3,Không
+1.69,62,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Có,9,1,Không,3,Không
+1.71,53,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,9,1,Không,3,Không
+1.63,51,3,M?i ngày,Không ?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,9,2,Không,4,Không
+1.74,62,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Có,10,1,Không,1,Không
+1.63,52,3,Không ?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,7,2,Không,3,Không
+1.70,51,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,9,2,Không,3,Không
+1.56,52,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 3 - 6 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Trên 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,4,Có
+1.65,70,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Trung bình,Có,8,3,Không,1,Không
+1.60,63,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,2,Không,2,Không
+1.71,68,3,Không ?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,D??i 2 gi?,Trung bình,Không,7,3,Không,1,Không
+1.72,62,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Trung bình,Có,8,5,Không,1,Không
+1.50,56,2,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,1,Không,6,Không
+1.65,50,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,2,Không,1,Không
+1.58,52,3,M?i ngày,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,4,Không
+1.65,70,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Có,8,3,Có,1,Không
+1.50,56,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,D??i 2 gi?,Không,Không,7,1,Không,3,Không
+1.60,55,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,T? 2 - 4 gi?,Không,Không,8,3,Không,4,Không
+1.70,54,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,8,4,Không,1,Không
+1.52,56,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,9,4,Không,1,Không
+1.65,75,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Có,10,3,Không,8,Không
+1.60,60,2,M?i ngày,M?i ngày,Không ?n,Ít h?n 50 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Th??ng xuyên,Có,8,5,Có,1,Không
+1.65,59,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Nhi?u,Có,8,4,Không,1,Không
+1.60,50,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,4,Không
+1.72,70,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,Trên 3 gi?,G?n nh? không,Trung bình,Không,9,4,Không,3,Có
+1.67,57,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,1,Không
+1.55,55,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Ít,Không,7,3,Có,3,Không
+1.65,60,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Không,Có,10,4,Không,4,Không
+1.60,65,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,T? 1 - 3 gi?,G?n nh? không,Không,Không,8,2,Không,3,Không
+1.70,70,3,M?i ngày,M?i ngày,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,10,3,Có,3,Không
+1.50,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,2,Không,4,Có
+1.68,57,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Ít,Không,10,2,Có,2,Không
+1.70,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,Trên 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Nhi?u,Có,10,5,Không,3,Không
+1.60,56,3,T? 3 - 6 b?a/tu?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,3,Không,2,Không
+1.65,60,4,Không ?n,Không ?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Trung bình,Có,10,5,Không,2,Không
+1.65,55,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,Trên 3 gi?,D??i 2 gi?,Trung bình,Có,10,3,Không,1,Không
+1.60,67,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,Trên 3 gi?,Trên 4 gi?,Trung bình,Không,9,4,Không,3,Không
+1.70,56,3,M?i ngày,M?i ngày,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Nhi?u,Không,8,3,Không,5,Không
+1.55,42,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,7,4,Không,1,Không
+1.65,65,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,10,3,Không,2,Không
+1.56,68,3,M?i ngày,T? 1 - 3 b?a/tu?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,10,3,Không,6,Không
+1.64,56,2,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,2,Không,3,Không
+1.53,48,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Không,Không,8,3,Không,2,Không
+1.70,65,3,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,T? 1 - 3 gi?,D??i 2 gi?,Nhi?u,Có,8,3,Không,5,Không
+1.70,60,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,9,3,Không,2,Không
+1.70,60,3,T? 1 - 3 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Ít,Có,9,4,Không,2,Không
+1.51,50,4,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Ít,Không,8,4,Không,4,Không
+1.60,60,2,M?i ngày,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Ít h?n 50 gram,T? 1 - 2 lít,T? 50 - 100 gram,D??i 1 gi?,G?n nh? không,Không,Không,8,2,Không,6,Không
+1.70,70,2,T? 3 - 6 b?a/tu?n,T? 1 - 3 b?a/tu?n,Không ?n,T? 50 - 100 gram,Ít h?n 1 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Th??ng xuyên,Có,9,2,Không,4,Không
+1.80,60,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,T? 2 - 4 gi?,Ít,Không,8,3,Không,8,Không
+1.50,50,2,T? 1 - 3 b?a/tu?n,Không ?n,Không ?n,Ít h?n 50 gram,T? 1 - 2 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,8,2,Không,4,Không
+1.70,80,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,2,Có,1,Không
+1.60,60,3,M?i ngày,T? 1 - 3 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,Trên 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,7,4,Có,2,Không
+1.55,48,3,M?i ngày,T? 3 - 6 b?a/tu?n,T? 3 - 6 b?a/tu?n,Trên 100 gram,Ít h?n 1 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,2,Có
+1.72,80,3,M?i ngày,T? 3 - 6 b?a/tu?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,G?n nh? không,G?n nh? không,Trung bình,Không,8,1,Không,3,Không
+1.69,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Ít,Có,8,3,Không,2,Không
+1.64,53,2,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Không,Không,7,3,Không,3,Không
+1.71,63,3,M?i ngày,Không ?n,Không ?n,Ít h?n 50 gram,Ít h?n 1 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Có,8,2,Không,6,Không
+1.59,60,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,8,2,Không,4,Không
+1.59,61,6,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Trung bình,Có,8,1,Không,3,Không
+1.50,49,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8,1,Không,2,Không
+1.50,45,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,D??i 1 gi?,D??i 2 gi?,Không,Không,8,1,Không,2,Không
+1.62,59,6,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Trung bình,Không,9,2,Không,2,Không
+1.55,55,3,M?i ngày,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,9,1,Không,3,Không
+1.64,45,3,M?i ngày,T? 3 - 6 b?a/tu?n,M?i ngày,T? 50 - 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,T? 1 - 3 gi?,T? 2 - 4 gi?,Trung bình,Không,10,3,Không,3,Không
+1.65,60,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,Trên 100 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,8,3,Không,4,Không
+1.70,66,3,T? 3 - 6 b?a/tu?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Trên 100 gram,G?n nh? không,G?n nh? không,Nhi?u,Có,8,3,Không,2,Không
+1.75,70,3,M?i ngày,Không ?n,Không ?n,Trên 100 gram,T? 2 - 3 lít,T? 50 - 100 gram,D??i 1 gi?,D??i 2 gi?,Trung bình,Không,7,2,Không,2,Không
+1.59,66,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 2 - 3 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Trung bình,Có,7,3,Không,1,Không
+1.55,52,2,Không ?n,Không ?n,Không ?n,T? 50 - 100 gram,T? 1 - 2 lít,Ít h?n 50 gram,G?n nh? không,G?n nh? không,Không,Không,8,3,Không,1,Không

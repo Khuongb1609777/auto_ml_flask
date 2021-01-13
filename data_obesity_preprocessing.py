@@ -14,7 +14,7 @@ from sklearn import svm, datasets
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import plot_confusion_matrix
 
-dataset = pd.read_csv("./data_api/ObesityDataSet_raw_and_data_sinthetic.csv")
+dataset = pd.read_csv("./data/ObesityDataSet_raw_and_data_sinthetic.csv")
 
 #  #   Column                          Non-Null Count  Dtype
 # ---  ------                          --------------  -----
@@ -140,57 +140,90 @@ dataset = transform_encoder_level(
 # dataset["Age"] = dataset["Age"] / 10
 # dataset = dataset.reset_index(drop=True)
 
-age_list = []
-for i in range(len(dataset)):
-    if dataset["Age"][i] < 20:
-        age_list.append(0)
-    elif dataset["Age"][i] >= 20 and dataset["Age"][i] < 30:
-        age_list.append(1)
-    elif dataset["Age"][i] >= 30 and dataset["Age"][i] < 40:
-        age_list.append(2)
-    elif dataset["Age"][i] > 50:
-        age_list.append(3)
+# age_list = []
 
-dataset["Age"] = age_list
+# for i in range(len(dataset)):
+#     if dataset["Age"][i] < 20:
+#         age_list.append(0)
+#     elif dataset["Age"][i] >= 20 and dataset["Age"][i] < 30:
+#         age_list.append(1)
+#     elif dataset["Age"][i] >= 30 and dataset["Age"][i] < 40:
+#         age_list.append(2)
+#     elif dataset["Age"][i] >= 40 and dataset["Age"][i] < 50:
+#         age_list.append(3)
+#     elif dataset["Age"][i] >= 50 and dataset["Age"][i] < 60:
+#         age_list.append(4)
+#     elif dataset["Age"][i] > 60:
+#         age_list.append(5)
 
-height_list = []
-for i in range(len(dataset)):
-    if dataset["Height"][i] < 1.5:
-        height_list.append(0)
-    elif dataset["Height"][i] >= 1.5 and dataset["Height"][i] < 1.6:
-        height_list.append(1)
-    elif dataset["Height"][i] >= 1.6 and dataset["Height"][i] < 1.7:
-        height_list.append(2)
-    elif dataset["Height"][i] >= 1.7 and dataset["Height"][i] < 1.8:
-        height_list.append(3)
-    elif dataset["Height"][i] >= 1.8:
-        height_list.append(4)
+# dataset["Age"] = age_list
 
-dataset["Height"] = height_list
+# height_list = []
+# for i in range(len(dataset)):
+#     if dataset["Height"][i] < 1.5:
+#         height_list.append(0)
+#     elif dataset["Height"][i] >= 1.5 and dataset["Height"][i] < 1.55:
+#         height_list.append(1)
+#     elif dataset["Height"][i] >= 1.55 and dataset["Height"][i] < 1.6:
+#         height_list.append(2)
+#     elif dataset["Height"][i] >= 1.6 and dataset["Height"][i] < 1.65:
+#         height_list.append(3)
+#     elif dataset["Height"][i] >= 1.65 and dataset["Height"][i] < 1.7:
+#         height_list.append(4)
+#     elif dataset["Height"][i] >= 1.7 and dataset["Height"][i] < 1.75:
+#         height_list.append(5)
+#     elif dataset["Height"][i] >= 1.75 and dataset["Height"][i] < 1.8:
+#         height_list.append(6)
+#     elif dataset["Height"][i] >= 1.8 and dataset["Height"][i] < 1.85:
+#         height_list.append(7)
+#     elif dataset["Height"][i] >= 1.85 and dataset["Height"][i] < 1.9:
+#         height_list.append(8)
+#     elif dataset["Height"][i] >= 1.9:
+#         height_list.append(9)
+
+# dataset["Height"] = height_list
 
 
-Weight_list = []
-for i in range(len(dataset)):
-    if dataset["Weight"][i] < 85:
-        Weight_list.append(1)
-    else:
-        Weight_list.append(2)
+# Weight_list = []
+# for i in range(len(dataset)):
+#     if dataset["Weight"][i] < 45:
+#         Weight_list.append(0)
+#     elif dataset["Weight"][i] >= 45 and dataset["Weight"][i] < 50:
+#         Weight_list.append(1)
+#     elif dataset["Weight"][i] >= 50 and dataset["Weight"][i] < 55:
+#         Weight_list.append(2)
+#     elif dataset["Weight"][i] >= 55 and dataset["Weight"][i] < 60:
+#         Weight_list.append(3)
+#     elif dataset["Weight"][i] >= 60 and dataset["Weight"][i] < 65:
+#         Weight_list.append(4)
+#     elif dataset["Weight"][i] >= 65 and dataset["Weight"][i] < 70:
+#         Weight_list.append(5)
+#     elif dataset["Weight"][i] >= 70 and dataset["Weight"][i] < 75:
+#         Weight_list.append(6)
+#     elif dataset["Weight"][i] >= 75 and dataset["Weight"][i] < 80:
+#         Weight_list.append(7)
+#     elif dataset["Weight"][i] >= 80 and dataset["Weight"][i] < 85:
+#         Weight_list.append(8)
+#     elif dataset["Weight"][i] >= 85 and dataset["Weight"][i] < 90:
+#         Weight_list.append(9)
+#     elif dataset["Weight"][i] >= 90:
+#         Weight_list.append(10)
 
 
-dataset["Weight"] = Weight_list
+# dataset["Weight"] = Weight_list
 
-for i in range(len(dataset)):
-    for fea in list(dataset.columns):
-        dataset[fea][i] = int(round(dataset[fea][i]))
+# for i in range(len(dataset)):
+#     for fea in list(dataset.columns):
+#         dataset[fea][i] = int(round(dataset[fea][i]))
 
 
 # dataset = dataset[(dataset.NCP) % 10 == 0]
 
-# export_csv = dataset.to_csv(
-#     r"C:\Users\KHUONG\Desktop\auto-ml\auto_ml_flask\data_api\data_obesity_before_labeled.csv",
-#     index=None,
-#     header=True,
-# )
+export_csv = dataset.to_csv(
+    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_obesity_preprocessing_not_endcode.csv",
+    index=None,
+    header=True,
+)
 
 import numpy as np
 from numpy.core.fromnumeric import argmax

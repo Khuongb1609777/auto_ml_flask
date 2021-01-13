@@ -134,196 +134,40 @@ def get_datasets():
 def get_data_charts():
     try:
         class_name = request.args.get("className")
-        # class_name = "Dataset"
         r = API.get_class(class_name)
         arr = str(r.data, "utf-8")
         r_json = json.loads(arr)
         data = r_json["results"]
         df = pd.DataFrame(data)
-        df["BMI"] = df["weight"] / (df["height"] * df["height"])
-        data_gender = DATA.get_data_chart(df, "gender")
-        data_job = DATA.get_data_chart(df, "job")
         data_mealOfTheDay = DATA.get_data_chart(df, "mealOfTheDay")
         data_breakfastOfTheWeek = DATA.get_data_chart(df, "breakfastOfTheWeek")
         data_dinnerOfTheWeek = DATA.get_data_chart(df, "dinnerOfTheWeek")
-        data_fastfoodOfTheWeek = DATA.get_data_chart(df, "breakfastOfTheWeek")
+        data_fastfoodOfTheWeek = DATA.get_data_chart(df, "fastFoodOfTheWeek")
         data_vegetableInMeal = DATA.get_data_chart(df, "vegetableInMeal")
         data_proteinOfMeal = DATA.get_data_chart(df, "proteinOfMeal")
-        data_sourceOfFood = DATA.get_data_chart(df, "sourceOfFood")
         data_waterOfTheDay = DATA.get_data_chart(df, "waterOfTheDay")
         data_timeDoExcerciseForWeek = DATA.get_data_chart(df, "timeDoExcerciseForWeek")
         data_sportTimeForWeek = DATA.get_data_chart(df, "sportTimeForWeek")
         data_alcohol = DATA.get_data_chart(df, "alcohol")
-        data_sodaWater = DATA.get_data_chart(df, "sodaWater")
         data_nicotine = DATA.get_data_chart(df, "nicotine")
-        data_chronicDiseases = DATA.get_data_chart(df, "chronicDiseases")
-        data_chronicDiseasesMedicine = DATA.get_data_chart(
-            df, "chronicDiseasesMedicine"
-        )
-        data_chronicDiseasesRelative = DATA.get_data_chart(
-            df, "chronicDiseasesRelative"
-        )
         data_requireOfJob = DATA.get_data_chart(df, "requireOfJob")
-        data_transport = DATA.get_data_chart(df, "transport")
         data_park = DATA.get_data_chart(df, "park")
-        data_sedative = DATA.get_data_chart(df, "sedative")
         data_depression = DATA.get_data_chart(df, "depression")
-        df1 = df.sort_values(by=["weight"], ascending=True).reset_index(drop=True)
-        bmi_values = [
-            {"name": "Thiếu cân (< 18.5)", "value": 0},
-            {
-                "name": "Bình thường (18.5 - 23)",
-                "value": 0,
-            },
-            {
-                "name": "Tiền béo phì (23 - 25)",
-                "value": 0,
-            },
-            {
-                "name": "Béo phì loại 1 (25 - 30)",
-                "value": 0,
-            },
-            {
-                "name": "Béo phì loại 2 (30 - 40)",
-                "value": 0,
-            },
-            {
-                "name": "Béo phì loại 3 ( >= 40)",
-                "value": 0,
-            },
-        ]
-        for i in range(len(df)):
-            if df["BMI"][i] < 18.5:
-                bmi_values[0]["value"] += 1
-            elif df["BMI"][i] >= 18.5 and df["BMI"][i] < 23:
-                bmi_values[1]["value"] += 1
-            elif df["BMI"][i] >= 23 and df["BMI"][i] < 25:
-                bmi_values[2]["value"] += 1
-            elif df["BMI"][i] >= 25 and df["BMI"][i] < 30:
-                bmi_values[3]["value"] += 1
-            elif df["BMI"][i] >= 30 and df["BMI"][i] < 35:
-                bmi_values[4]["value"] += 1
-            elif df["BMI"][i] >= 35 and df["BMI"][i] < 40:
-                bmi_values[5]["value"] += 1
-            elif df["BMI"][i] >= 40:
-                bmi_values[6]["value"] += 1
-        weight_values = {
-            "duoi_40": [],
-            "duoi_50": [],
-            "duoi_60": [],
-            "duoi_70": [],
-            "duoi_80": [],
-            "duoi_90": [],
-            "duoi_100": [],
-            "tren_100": [],
-        }
-        for i in range(len(df1)):
-            if float(df1["weight"][i]) < 40:
-                weight_values["duoi_40"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 40) and (float(df1["weight"][i]) < 50):
-                weight_values["duoi_50"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 50) and (float(df1["weight"][i]) < 60):
-                weight_values["duoi_60"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 60) and (float(df1["weight"][i]) < 70):
-                weight_values["duoi_70"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 70) and (float(df1["weight"][i]) < 80):
-                weight_values["duoi_80"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 80) and (float(df1["weight"][i]) < 90):
-                weight_values["duoi_90"].append(float(df1["height"][i]))
-            elif (float(df1["weight"][i]) >= 90) and (float(df1["weight"][i]) < 100):
-                weight_values["duoi_100"].append(float(df1["height"][i]))
-            elif float(df1["weight"][i]) >= 100:
-                weight_values["tren_100"].append(float(df1["height"][i]))
-        data_height_weight = [
-            {
-                "name": "Ít hơn 40 kg",
-                "value": DATA.trung_binh(weight_values["duoi_40"]),
-            },
-            {
-                "name": "Từ 40 - 50 kg",
-                "value": DATA.trung_binh(weight_values["duoi_50"]),
-            },
-            {
-                "name": "Từ 50 - 60 kg",
-                "value": DATA.trung_binh(weight_values["duoi_60"]),
-            },
-            {
-                "name": "Từ 60 - 70 kg",
-                "value": DATA.trung_binh(weight_values["duoi_70"]),
-            },
-            {
-                "name": "Từ 70 - 80 kg",
-                "value": DATA.trung_binh(weight_values["duoi_80"]),
-            },
-            {
-                "name": "Từ 80 - 90 kg",
-                "value": DATA.trung_binh(weight_values["duoi_90"]),
-            },
-            {
-                "name": "Từ 90 - 100 kg",
-                "value": DATA.trung_binh(weight_values["duoi_100"]),
-            },
-            {
-                "name": "Trên 100 kg",
-                "value": DATA.trung_binh(weight_values["tren_100"]),
-            },
-        ]
-        data_age = [
-            {"name": "Dưới 20 tuổi", "value": 0},
-            {"name": "Từ 20 - dưới 30 tuổi", "value": 0},
-            {"name": "Từ 30 - dưới 40 tuổi", "value": 0},
-            {"name": "Từ 40 - dưới 50 tuổi", "value": 0},
-            {"name": "Từ 50 - dưới 60 tuổi", "value": 0},
-            {"name": "Từ 60 trở lên", "value": 0},
-        ]
-        for i in range(len(df["age"].value_counts())):
-            if int(df["age"].value_counts().index[i]) < 20:
-                data_age[0]["value"] += int(list(df["age"].value_counts())[i])
-            elif (int(df["age"].value_counts().index[i]) >= 20) and (
-                int(df["age"].value_counts().index[i]) < 30
-            ):
-                data_age[1]["value"] += int(list(df["age"].value_counts())[i])
-            elif (int(df["age"].value_counts().index[i]) >= 30) and (
-                int(df["age"].value_counts().index[i]) < 40
-            ):
-                data_age[2]["value"] += int(list(df["age"].value_counts())[i])
-            elif (int(df["age"].value_counts().index[i]) >= 40) and (
-                int(df["age"].value_counts().index[i]) < 50
-            ):
-                data_age[3]["value"] += int(list(df["age"].value_counts())[i])
-            elif (int(df["age"].value_counts().index[i]) >= 50) and (
-                int(df["age"].value_counts().index[i]) < 60
-            ):
-                data_age[4]["value"] += int(list(df["age"].value_counts())[i])
-            elif int(df["age"].value_counts().index[i]) >= 60:
-                data_age[5]["value"] += int(list(df["age"].value_counts())[i])
         data_result = {
-            "chart_gender": data_gender,
-            "chart_job": data_job,
             "chart_meal_of_theday": data_mealOfTheDay,
             "chart_breakfast_of_theweek": data_breakfastOfTheWeek,
             "chart_dinner_of_theweek": data_dinnerOfTheWeek,
             "chart_fastfood_of_theweek": data_fastfoodOfTheWeek,
             "chart_vegetable_in_meal": data_vegetableInMeal,
             "chart_protein_of_meal": data_proteinOfMeal,
-            "chart_source_of_food": data_sourceOfFood,
             "chart_water_of_the_day": data_waterOfTheDay,
             "chart_time_doexcercise_for_week": data_timeDoExcerciseForWeek,
             "chart_sporttime_for_week": data_sportTimeForWeek,
             "chart_alcohol": data_alcohol,
-            "chart_sodawater": data_sodaWater,
             "chart_nicotine": data_nicotine,
-            "chart_chronicDiseases": data_chronicDiseases,
-            "chart_chronicDiseasesMedicine": data_chronicDiseasesMedicine,
-            "chart_chronicDiseasesRelative": data_chronicDiseasesRelative,
             "chart_requireOfJob": data_requireOfJob,
-            "chart_transport": data_transport,
             "chart_park": data_park,
-            "chart_sedative": data_sedative,
             "chart_depression": data_depression,
-            "chart_age": data_age,
-            "chart_height_weight": data_height_weight,
-            "chart_bmi": bmi_values,
         }
         # data_result = json.dumps(data_result)
         return data_result
@@ -535,12 +379,12 @@ def upload_file_url():
 def get_columns_form():
     try:
         class_name = request.args.get("className")
-        if class_name == "DatasetPreprocessing":
+        if class_name == "DatasetSurveyBalance":
             r = API.get_class(class_name)
             arr = str(r.data, "utf-8")
             r_json = json.loads(arr)
             data_create_model = pd.DataFrame(r_json["results"])
-            index_columns = data_create_model.columns[4:].drop("yearOfBirth")
+            index_columns = data_create_model.columns[3:]
             list_index = list(index_columns)
             array_index_json = json.dumps(list_index)
             return array_index_json
@@ -688,7 +532,6 @@ def create_model():
         # Get opjectId, collabel, feature, algorithm and parameters
         data_name = request.args.get("dataName")
         class_name = request.args.get("className")
-        print(class_name)
         model_name = request.args.get("modelname")
         col_label = int(request.args.get("label"))
         col_feature_str = (request.args.get("feature")).split(",")
@@ -713,8 +556,8 @@ def create_model():
         r_json = json.loads(arr)
         data = r_json["results"]
         dataFrame = pd.DataFrame(data)
-        if class_name == "DatasetPreprocessing":
-            dataFrame = dataFrame.iloc[:, 4:]
+        if class_name == "DatasetSurveyBalance":
+            dataFrame = dataFrame.iloc[:, 3:]
         elif class_name == "DatasetObesity":
             dataFrame = dataFrame.iloc[:, 3:]
         if "yearOfBirth" in list(dataFrame.columns):
@@ -947,7 +790,7 @@ def load_model():
         pass
 
 
-@app.route("/add-record-obesity", methods=["GET"])
+@app.route("/add-record-obesity", methods=["POST"])
 # @cross_origin()
 def add_record_obesity():
     try:
@@ -1039,7 +882,7 @@ def add_record_obesity():
             }
             data_raw = API.post(class_name_raw, data_post_raw)
             data = API.post(class_name, data_post)
-            return [data_raw, data]
+            return str(postok)
     except:
         print("[error] check key (inputColumns) and value")
         return "[error] check key (inputColumns) and value (check type inputColumns)"

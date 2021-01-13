@@ -1,0 +1,698 @@
+meal_of_the_day,breakfast_of_the_week,dinner_of_the_week,fast_food_of_the_week,vegetable_in_meal,water_of_the_day,protein_of_meal,time_do_exercise,time_of_sport,alcohol,nicotine,sleep_time,require_of_job,park,time_use_tech_equip,depression,obesity
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Nhiều,Không,10,3,Có,8,Có,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,2,Có,7,Không,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,2,Có,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,6,1,Không,0,Không,4
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,5,1,Không,1,Có,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,1,Có,0,Không,2
+4,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,2,2,Không,1,Không,1
+4,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,5,2,Có,4,Có,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,2,Không,5,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,7,1,Không,2,Không,0
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,10,3,Không,8,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,6,2,Không,4,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,1,Không,7,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,1,Không,1,Có,2
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,2,Không,6,Có,1
+3,Từ 1 - 3 bữa/tuần,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,3,3,Không,2,Không,1
+2,Không ăn,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Có,6,1,Không,4,Có,0
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,2,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,1,Không,5,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,1,Có,4,Không,1
+2,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Ít,Không,7,1,Không,0,Có,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,2,Có,2,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,1,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,9,2,Không,2,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,1,Không,5,Không,1
+4,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,1,3,Có,2,Không,0
+2,Không ăn,Không ăn,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,1,Không,1,Có,0
+2,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,4,Không,5,Không,1
+2,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,2,3,Có,0,Không,0
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,2,Không,3,Không,3
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,2,Không,3,Không,3
+1,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,4,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,6,1,Có,5,Không,1
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,6,1,Không,6,Có,1
+3,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,7,2,Có,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Không,Không,7,1,Không,7,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Có,4,Có,2
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,6,Không,0
+3,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,10,3,Không,7,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,1,Không,0,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Mỗi ngày,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,1,Có,2,Có,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,3,3,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,7,1,Không,1,Không,4
+1,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,6,2,Có,6,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,3,Không,0
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,6,1,Không,4,Không,1
+2,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,2,Không,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,4,Không,3,Không,3
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,2,2,Không,4,Không,1
+2,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,3,Không,5,Có,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,12,2,Có,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,6,3,Có,4,Có,0
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,5,1,Không,3,Có,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Có,7,3,Không,6,Không,2
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,9,1,Có,8,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,3,Không,4,Có,0
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,10,1,Có,3,Có,0
+2,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,9,3,Không,0,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,6,3,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,1,Không,0,Có,3
+3,Từ 3 - 6 bữa/tuần,Mỗi ngày,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,3,Không,4,Có,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,1,3,Có,0,Không,1
+2,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Có,4,3,Có,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,6,2,Không,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,1,Không,6,Có,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,3,Có,1,Không,1
+2,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,8,1,Không,1,Có,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,7,4,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,2,Không,5,Không,0
+2,Không ăn,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,1,Không,0,Có,2
+2,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,2,Không,4,Không,3
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,7,1,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,1,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,3,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,1,Có,4,Có,1
+2,Từ 1 - 3 bữa/tuần,Mỗi ngày,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,6,1,Có,8,Không,0
+2,Không ăn,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Dưới 2 giờ,Không,Không,6,2,Không,4,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,10,1,Có,5,Có,1
+3,Không ăn,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,1,Không,8,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,8,Có,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,1,3,Không,3,Không,1
+2,Không ăn,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,3,1,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,5,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,2,Có,5,Không,2
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,6,1,Có,5,Không,2
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Dưới 2 giờ,Không,Không,8,1,Không,6,Không,0
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,5,Không,0
+2,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,6,1,Không,3,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,4,1,Có,6,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,5,Có,5,Không,2
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,3,3,Không,4,Có,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,7,3,Có,3,Có,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Có,5,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,7,3,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,3,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,9,1,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,4,Không,2,Không,3
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,5,Không,0
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,6,1,Có,1,Không,1
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,3,2,Không,4,Không,0
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Không,Không,7,1,Không,8,Không,3
+2,Từ 3 - 6 bữa/tuần,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,8,1,Không,4,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,8,4,Có,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,7,3,Không,1,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,2,Không,0,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,1,Không,1,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Dưới 2 giờ,Không,Không,10,2,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Có,2,Có,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Không,6,Không,3
+2,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,7,1,Không,3,Có,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,5,3,Không,4,Có,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,8,1,Không,5,Không,1
+2,Không ăn,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,4,3,Có,0,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,4,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Ít,Không,7,1,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Có,2,Không,3
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Trung bình,Không,7,3,Có,4,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,9,2,Không,8,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,10,1,Có,4,Có,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Trung bình,Không,7,3,Không,3,Không,3
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Ít,Không,5,2,Có,1,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Ít,Không,6,2,Có,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Nhiều,Có,5,2,Có,1,Không,3
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,5,4,Có,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Dưới 2 giờ,Ít,Không,6,2,Có,1,Không,2
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,6,1,Có,2,Có,0
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Nhiều,Không,7,1,Không,1,Có,0
+3,Từ 1 - 3 bữa/tuần,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Không,3,Có,0
+2,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Trên 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,5,Có,0,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Trên 3 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Ít,Không,7,1,Có,1,Không,4
+2,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Trên 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,5,Có,0,Không,1
+2,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Nhiều,Có,3,1,Không,1,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,7,2,Có,1,Có,3
+4,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Trung bình,Không,7,1,Có,1,Có,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,6,1,Không,0,Có,2
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,6,1,Có,1,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,7,1,Có,3,Không,0
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,7,2,Không,5,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,5,1,Không,8,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,5,1,Không,8,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Trên 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,1,Có,0,Có,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,8,2,Có,2,Không,2
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,1,Có,1,Không,1
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,11,2,Có,1,Không,1
+4,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,1,Có,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Có,1,Không,1
+2,Không ăn,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,5,Không,0
+4,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Không,5,Có,1
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,3,Không,4,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,6,1,Có,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,7,1,Không,4,Có,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,5,4,Không,3,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,8,2,Không,1,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,1,Có,3,Không,1
+2,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,9,1,Không,6,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,11,2,Không,4,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Có,6,1,Có,6,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,1,Có,5,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,3,Không,7,Không,2
+2,Từ 1 - 3 bữa/tuần,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,7,2,Không,0,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,5,3,Có,5,Không,0
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,2,Có,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,1,Không,8,Có,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,6,2,Không,0,Không,2
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,2,Không,0,Không,4
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,9,3,Không,1,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Trên 4 giờ,Ít,Có,4,2,Có,1,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Trung bình,Không,8,1,Có,0,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Dưới 2 giờ,Không,Không,7,1,Không,4,Không,0
+2,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,3,Không,0,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Từ 2 - 4 giờ,Trung bình,Không,9,1,Có,8,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Mỗi ngày,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,10,1,Có,5,Không,0
+3,Không ăn,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Trung bình,Có,8,1,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Nhiều,Không,5,3,Không,8,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,6,2,Có,5,Không,3
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Nhiều,Không,6,3,Không,6,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Thường xuyên,Không,7,5,Không,5,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,6,1,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Dưới 2 giờ,Trung bình,Không,7,2,Không,0,Không,3
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,3,Có,0,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,6,1,Có,0,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,9,2,Có,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Trên 4 giờ,Trung bình,Không,6,3,Có,5,Không,2
+2,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,5,1,Không,8,Không,0
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Trung bình,Không,7,3,Không,8,Không,3
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,4,Có,8,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,8,2,Không,2,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,1,Có,4,Có,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,5,1,Không,5,Không,3
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,1,Có,0,Không,1
+4,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Trung bình,Không,7,3,Có,5,Không,1
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Thường xuyên,Không,8,1,Không,5,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,3,Không,0
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,1,Không,2,Không,0
+2,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,0,Không,0
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,10,2,Không,9,Không,0
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,2,Không,4,Không,0
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Không,5,Không,1
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,3,1,Không,4,Không,3
+1,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,5,1,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,3,Không,4,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,3,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,3,Không,3,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Trên 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,4,4,Không,1,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,3,Không,2,Không,3
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Gần như không,Ít,Không,9,3,Có,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,10,3,Không,4,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,10,3,Không,0,Không,2
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,10,3,Không,4,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,6,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,10,2,Không,4,Không,1
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,11,3,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,2,Không,3,Không,1
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,8,3,Không,5,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,2,Không,4,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,6,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,2,2,Không,5,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,3
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,2,Không,6,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,10,2,Không,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,6,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Trung bình,Không,7,1,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,3,Không,3
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,3,Không,3,Không,0
+2,Không ăn,Từ 1 - 3 bữa/tuần,Mỗi ngày,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,12,1,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Gần như không,Ít,Không,8,4,Không,2,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,8,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,10,3,Không,5,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Mỗi ngày,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,3,Không,4,Không,0
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,3,Có,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,2,Không,1,Không,2
+4,Mỗi ngày,Mỗi ngày,Mỗi ngày,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,8,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,8,4,Không,5,Không,2
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,3,Có,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,4,Không,4,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,7,3,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,7,3,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,8,2,Không,4,Không,0
+2,Từ 1 - 3 bữa/tuần,Mỗi ngày,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Ít,Không,8,4,Không,4,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,10,2,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,7,4,Có,5,Không,1
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,1,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,2,Không,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,11,1,Không,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,6,3,Có,5,Không,2
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,2,Không,1,Không,1
+2,Không ăn,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Trung bình,Có,7,4,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,10,2,Không,2,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,2,Không,1,Không,3
+3,Mỗi ngày,Không ăn,Mỗi ngày,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,8,1,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,10,4,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,2,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,1,Không,2
+3,Mỗi ngày,Mỗi ngày,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,6,1,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,4,Không,2,Không,1
+4,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Trên 100 gram,Trên 3 giờ,Gần như không,Trung bình,Có,8,4,Có,2,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,4,Không,2,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,6,2,Không,8,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,4,Không,2,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Có,7,3,Có,2,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,9,2,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,2,Không,4,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,8,4,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Dưới 2 giờ,Ít,Không,8,4,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Dưới 2 giờ,Ít,Không,8,2,Không,4,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Trung bình,Có,7,4,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,7,2,Không,6,Có,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,8,4,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Không,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,4,Có,0,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Không,2
+4,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,4,Có,1,Không,2
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Ít,Có,8,2,Không,8,Không,0
+3,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,9,3,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Ít,Không,8,2,Không,1,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,6,3,Không,1,Không,3
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,6,Không,0
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,4,Không,5,Có,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,10,4,Có,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Không,6,Không,0
+3,Mỗi ngày,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,3,Không,2,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,5,1,Không,8,Có,3
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,2,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Nhiều,Không,7,3,Có,3,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,1,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,8,4,Không,3,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,1,Không,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Có,7,3,Không,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,9,2,Không,2,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,8,4,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,1,Không,4,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,3,Có,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,10,3,Không,5,Không,2
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,6,2,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,8,4,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,8,4,Không,1,Không,1
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,5,2,Không,1,Không,2
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,5,2,Không,1,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,9,3,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Không,Không,8,1,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,4,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Trung bình,Có,10,1,Không,1,Không,1
+3,Không ăn,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Nhiều,Có,7,5,Không,4,Không,0
+4,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Có,8,3,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,7,5,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Trên 3 giờ,Gần như không,Trung bình,Không,6,3,Không,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Không,8,5,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Có,8,3,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Có,8,3,Không,2,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,2,4,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,1,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,12,3,Không,3,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,5,3,Không,5,Không,2
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Không,3,Không,4
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,12,2,Có,3,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,7,Không,3
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,12,3,Không,8,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Có,6,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Nhiều,Không,7,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,3,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,2,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,10,2,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,7,3,Không,5,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Thường xuyên,Có,9,1,Không,5,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Không,0,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,7,2,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,3,Không,6,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,6,3,Không,8,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,3,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,8,3,Có,5,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,9,2,Không,0,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,10,2,Không,8,Không,0
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,9,3,Không,5,Không,1
+2,Không ăn,Không ăn,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Có,5,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,8,1,Không,5,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,7,3,Không,7,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,2,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,1,Không,4,Không,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,10,3,Không,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Không,Không,6,3,Có,6,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,8,3,Có,7,Không,2
+3,Mỗi ngày,Mỗi ngày,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,12,1,Không,6,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Trên 4 giờ,Không,Không,7,3,Có,1,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,3,Có,6,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Ít,Không,10,3,Có,5,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,10,1,Không,4,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Ít,Không,5,3,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,3,Không,3,Không,0
+4,Mỗi ngày,Mỗi ngày,Mỗi ngày,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,12,1,Có,6,Không,4
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,2,Có,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Có,3,Không,0
+4,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,7,2,Có,2,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,3,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,3,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,3,Không,2,Không,0
+4,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,9,3,Có,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,9,3,Không,3,Không,1
+4,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Gần như không,Không,Không,5,3,Không,4,Không,3
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,2,Không,2,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,7,2,Không,2,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Có,6,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Trên 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Trên 4 giờ,Không,Không,6,3,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,9,2,Có,5,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Có,5,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Có,5,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,9,3,Có,6,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,4,Không,2,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Mỗi ngày,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,8,2,Không,6,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,2,Không,2,Có,0
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,7,2,Không,5,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,8,2,Không,5,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,6,3,Không,8,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,2,Có,5,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,9,4,Không,6,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,9,1,Không,4,Có,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,4,Có,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,4,Không,5,Không,1
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,3,Không,4,Không,0
+4,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,3,Có,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Trên 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Trung bình,Có,8,3,Không,3,Không,0
+4,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,2,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Có,8,4,Không,7,Không,2
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Mỗi ngày,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Trung bình,Có,8,4,Không,7,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,1
+2,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Trung bình,Có,8,3,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,1,Không,7,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,10,3,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,10,3,Không,2,Không,3
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,1,Không,5,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,2,Không,2,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,3,3,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,1,Không,5,Không,0
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Trung bình,Có,8,3,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,6,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,2,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,1,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,2,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,7,3,Không,6,Có,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,3,Không,1,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,6,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,1,Không,6,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,7,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Trung bình,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,8,2,Có,1,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,1,Không,8,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Trên 3 giờ,Trên 4 giờ,Ít,Không,8,4,Không,4,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,5,Không,4,Không,2
+3,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,1,Có,5,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,6,1,Không,2,Không,2
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,1,Không,3,Không,3
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,6,4,Không,4,Không,0
+3,Không ăn,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,6,4,Không,5,Không,1
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,1,Không,2,Không,1
+2,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,10,2,Không,7,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,4,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,6,Không,1
+3,Không ăn,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,10,2,Không,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,7,3,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,9,3,Không,2,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,7,3,Có,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,3,Không,1,Không,0
+2,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,2,Có,6,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,5,3,Có,4,Có,3
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Trên 4 giờ,Không,Không,8,4,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Có,10,2,Không,4,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,7,4,Có,4,Không,3
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Có,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Trên 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Thường xuyên,Không,7,3,Có,4,Không,4
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,3,Không,6,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,4,3,Không,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,5,2,Không,2,Có,0
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Có,4,Không,2
+3,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,8,1,Không,1,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Mỗi ngày,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,6,3,Không,4,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Không,4,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Mỗi ngày,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,11,4,Có,5,Không,0
+5,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,3,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,10,4,Có,4,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Có,4,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,1,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,2,Có,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,3,Không,3,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Có,4,Có,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Không,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Ít,Không,7,3,Không,0,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,4,Không,3
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Không,5,Không,0
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,4,Không,0
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,6,3,Có,5,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,2,Có,3,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,10,2,Không,7,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,5,5,Có,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,10,2,Không,6,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,10,3,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,6,3,Không,3,Không,0
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,4,1,Có,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,1,Có,5,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Có,4,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,6,2,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,1,Không,3,Không,4
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,2,Có,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Có,0,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Có,8,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,3,Không,0,Không,1
+4,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,8,3,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,1,Không,2,Không,1
+3,Không ăn,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,6,2,Không,4,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,3,Có,0,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,6,3,Không,2,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Có,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Trên 4 giờ,Ít,Không,8,2,Không,4,Không,0
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,9,3,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,5,3,Không,0,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,4,Có,4,Không,2
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,8,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,2,Không,5,Không,1
+2,Không ăn,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,5,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,7,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,2,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,2,Không,7,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,2,Không,7,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,10,3,Không,2,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,2,Có,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Không,Không,5,3,Có,3,Có,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Ít,Không,7,1,Không,5,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,1,Không,4,Không,1
+3,Mỗi ngày,Mỗi ngày,Mỗi ngày,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,8,3,Không,8,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,2,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,5,Không,0
+5,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Trên 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,5,Không,8,Có,2
+3,Từ 3 - 6 bữa/tuần,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,6,3,Không,6,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,2,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Gần như không,Không,Không,7,2,Không,4,Không,0
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,11,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Dưới 2 giờ,Không,Không,11,5,Không,1,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,7,1,Không,3,Không,1
+4,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,6,1,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,5,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,4,Không,4,Không,1
+4,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,2,Không,4,Không,4
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,4,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,0
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,10,3,Không,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,6,3,Không,4,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,2,Không,1,Không,0
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Gần như không,Ít,Không,7,2,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,4,Không,3,Không,1
+3,Không ăn,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,4,Không,2,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,7,4,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,4,Không,1
+4,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,1,Không,6,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Ít,Không,8,3,Không,5,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,1,Không,1
+3,Từ 1 - 3 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,6,3,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Dưới 2 giờ,Không,Không,12,3,Không,7,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,8,3,Không,3,Không,2
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,3,Không,3
+4,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,8,2,Không,4,Không,2
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,1,Không,3,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,6,3,Không,3,Không,1
+4,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,1
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,10,3,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,10,3,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,8,1,Có,1,Không,4
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,7,3,Có,5,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,9,5,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Không,Không,8,2,Có,5,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,1,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,7,4,Không,4,Không,1
+4,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,8,3,Có,2,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,10,4,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Không,Không,6,1,Có,0,Không,1
+3,Không ăn,Mỗi ngày,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Từ 2 - 4 giờ,Ít,Không,8,3,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,3,Không,5,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,5,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,5,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,3,Không,1
+3,Mỗi ngày,Mỗi ngày,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,4,Không,2
+2,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Trên 3 giờ,Trên 4 giờ,Ít,Có,7,1,Không,8,Có,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,7,3,Có,5,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,6,3,Có,3,Không,3
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Trên 100 gram,Gần như không,Gần như không,Ít,Không,10,2,Không,5,Có,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Trên 3 giờ,Từ 2 - 4 giờ,Ít,Không,6,3,Có,7,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,6,2,Không,6,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Có,3,Có,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Trung bình,Không,8,3,Không,3,Không,0
+3,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,7,Không,0
+2,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,8,2,Không,4,Không,0
+2,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,7,1,Không,0,Có,1
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,7,4,Không,3,Có,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Không,4,Không,0
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Ít,Không,8,3,Không,2,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Không,10,1,Không,3,Có,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Trên 4 giờ,Ít,Không,7,3,Không,3,Không,0
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,1,Không,3
+2,Không ăn,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,7,3,Không,7,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,2,Không,2
+4,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Có,6,Không,0
+3,Mỗi ngày,Mỗi ngày,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Ít,Không,8,3,Không,3,Không,0
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,3,Không,2,Không,1
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Dưới 2 giờ,Không,Không,7,3,Không,4,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,10,1,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,10,2,Không,3,Có,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,10,3,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Không,Không,8,3,Không,3,Có,1
+2,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Gần như không,Không,Không,10,2,Không,4,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Ít,Có,7,2,Không,3,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Từ 2 - 4 giờ,Không,Không,7,2,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,2,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,9,1,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,11,3,Không,3,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Có,9,1,Không,3,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,9,1,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,9,2,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Có,10,1,Không,1,Không,1
+3,Không ăn,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,7,2,Không,3,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,9,2,Không,3,Không,0
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 3 - 6 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Trên 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,4,Có,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Trung bình,Có,8,3,Không,1,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,2,Không,2,Không,2
+3,Không ăn,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Trung bình,Không,7,3,Không,1,Không,2
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Trung bình,Có,8,5,Không,1,Không,1
+2,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,1,Không,6,Không,2
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,1,Không,0
+3,Mỗi ngày,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Có,8,3,Có,1,Không,3
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Dưới 2 giờ,Không,Không,7,1,Không,3,Không,2
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Không,Không,8,3,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,8,4,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,9,4,Không,1,Không,2
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Có,10,3,Không,8,Không,3
+2,Mỗi ngày,Mỗi ngày,Không ăn,Ít hơn 50 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Thường xuyên,Có,8,5,Có,1,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Nhiều,Có,8,4,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,1,Không,4,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Gần như không,Trung bình,Không,9,4,Không,3,Có,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,1,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Ít,Không,7,3,Có,3,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Không,Có,10,4,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Gần như không,Không,Không,8,2,Không,3,Không,3
+3,Mỗi ngày,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,10,3,Có,3,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,2,Không,4,Có,3
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Ít,Không,10,2,Có,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Trên 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Nhiều,Có,10,5,Không,3,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,3,Không,2,Không,1
+4,Không ăn,Không ăn,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Trung bình,Có,10,5,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Trên 3 giờ,Dưới 2 giờ,Trung bình,Có,10,3,Không,1,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Trên 3 giờ,Trên 4 giờ,Trung bình,Không,9,4,Không,3,Không,3
+3,Mỗi ngày,Mỗi ngày,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Nhiều,Không,8,3,Không,5,Không,1
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,7,4,Không,1,Không,0
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,10,3,Không,2,Không,2
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,10,3,Không,6,Không,3
+2,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,2,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Không,Không,8,3,Không,2,Không,1
+3,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Từ 1 - 3 giờ,Dưới 2 giờ,Nhiều,Có,8,3,Không,5,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,9,3,Không,2,Không,1
+3,Từ 1 - 3 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Trên 100 gram,Gần như không,Gần như không,Ít,Có,9,4,Không,2,Không,1
+4,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Ít,Không,8,4,Không,4,Không,1
+2,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Ít hơn 50 gram,Từ 1 - 2 lít,Từ 50 - 100 gram,Dưới 1 giờ,Gần như không,Không,Không,8,2,Không,6,Không,2
+2,Từ 3 - 6 bữa/tuần,Từ 1 - 3 bữa/tuần,Không ăn,Từ 50 - 100 gram,Ít hơn 1 lít,Ít hơn 50 gram,Gần như không,Gần như không,Thường xuyên,Có,9,2,Không,4,Không,2
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Từ 2 - 4 giờ,Ít,Không,8,3,Không,8,Không,1
+2,Từ 1 - 3 bữa/tuần,Không ăn,Không ăn,Ít hơn 50 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,8,2,Không,4,Không,1
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,2,Có,1,Không,3
+3,Mỗi ngày,Từ 1 - 3 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Trên 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,7,4,Có,2,Không,2
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Từ 3 - 6 bữa/tuần,Trên 100 gram,Ít hơn 1 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Không,Không,8,1,Không,2,Có,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Gần như không,Gần như không,Trung bình,Không,8,1,Không,3,Không,3
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Ít,Có,8,3,Không,2,Không,1
+2,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Không,Không,7,3,Không,3,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Ít hơn 50 gram,Ít hơn 1 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Có,8,2,Không,6,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,8,2,Không,4,Không,2
+6,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Trung bình,Có,8,1,Không,3,Không,2
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,1,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Dưới 1 giờ,Dưới 2 giờ,Không,Không,8,1,Không,2,Không,1
+6,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Trung bình,Không,9,2,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,9,1,Không,3,Không,1
+3,Mỗi ngày,Từ 3 - 6 bữa/tuần,Mỗi ngày,Từ 50 - 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Từ 1 - 3 giờ,Từ 2 - 4 giờ,Trung bình,Không,10,3,Không,3,Không,0
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Trên 100 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,8,3,Không,4,Không,1
+3,Từ 3 - 6 bữa/tuần,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Trên 100 gram,Gần như không,Gần như không,Nhiều,Có,8,3,Không,2,Không,1
+3,Mỗi ngày,Không ăn,Không ăn,Trên 100 gram,Từ 2 - 3 lít,Từ 50 - 100 gram,Dưới 1 giờ,Dưới 2 giờ,Trung bình,Không,7,2,Không,2,Không,1
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 2 - 3 lít,Ít hơn 50 gram,Gần như không,Gần như không,Trung bình,Có,7,3,Không,1,Không,3
+2,Không ăn,Không ăn,Không ăn,Từ 50 - 100 gram,Từ 1 - 2 lít,Ít hơn 50 gram,Gần như không,Gần như không,Không,Không,8,3,Không,1,Không,1
