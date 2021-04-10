@@ -7,7 +7,7 @@ from sklearn.decomposition import PCA
 import pandas as pd
 from function_api import API
 
-dataset = pd.read_csv("./data/data_end_encode_balance.csv")
+dataset = pd.read_csv("./data/data_fit.csv")
 # dataset = pd.read_csv("./data/data_end_no_encode.csv")
 # dataset_p["BMI"] = dataset["weight"] / (dataset["height"] * dataset["height"])
 

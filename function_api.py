@@ -461,9 +461,148 @@ class API:
                 "POST", url_upload_DB, body=data_decode, headers=header_upload_DB
             )
             return r.data
-        # except:
-        #     print("[Error]---")
-        #     pass
+
+
+    def upload_model_file_system(
+            url_file_model,
+            model_name,
+            from_data,
+            algorithm_id,
+            params,
+            col_label,
+            col_label_name,
+            col_feature,
+            col_feature_name,
+            description,
+            evalution,
+            addition_header=None,
+        ):
+            try:
+                with open(url_file_model, "rb") as fp:
+                    binary_data = fp.read()
+                os.remove(url_file_model)
+                http = API.http
+                header = API.get_header(addition_header)
+                url = API.url + "files/" + str(url_file_model)
+            except:
+                print(
+                    "[error] can't find header in API (upload_model_file function in API class)"
+                )
+                pass
+            # try:
+            # r = http.request('POST', url, body=open(
+            #     url_file_model, encoding="utf8", errors='ignore').read().encode('UTF-8'), headers=header)
+            r = http.request("POST", url, body=binary_data, headers=header)
+            checkRequest = DATA.convert_bytes_to_json(r.data)
+            if "error" in list(checkRequest.keys()):
+                print(
+                    "[error] ",
+                    checkRequest["code"],
+                    ", data:",
+                    checkRequest["error"],
+                    "(upload_model_file function in API class)",
+                )
+            else:
+                dataResultLogin = DATA.convert_bytes_to_json(r.data)
+                # return (dataResultLogin)
+                data = {
+                    "modelFile": {
+                        "name": dataResultLogin["name"],
+                        "url": dataResultLogin["url"],
+                        "__type": "File",
+                    },
+                    "modelName": model_name,
+                    "fromData": from_data,
+                    "algorithm": {
+                        "__type": "Pointer",
+                        "className": "Algorithm",
+                        "objectId": algorithm_id,
+                    },
+                    "params": params,
+                    "colLabel": str(col_label),
+                    "colLabelName": str(col_label_name),
+                    "colFeature": str(col_feature),
+                    "colFeatureName": str(col_feature_name),
+                    "description": str(description),
+                    "evalution": float(evalution),
+                }
+                url_upload_DB = API.url + "classes/" + "SystemModelVn"
+                header_upload_DB = API.get_header()
+                data_decode = json.dumps(data)
+                r = http.request(
+                    "POST", url_upload_DB, body=data_decode, headers=header_upload_DB
+                )
+                return r.data
+    def upload_model_file_system_mx(
+            url_file_model,
+            model_name,
+            from_data,
+            algorithm_id,
+            params,
+            col_label,
+            col_label_name,
+            col_feature,
+            col_feature_name,
+            description,
+            evalution,
+            addition_header=None,
+        ):
+            try:
+                with open(url_file_model, "rb") as fp:
+                    binary_data = fp.read()
+                os.remove(url_file_model)
+                http = API.http
+                header = API.get_header(addition_header)
+                url = API.url + "files/" + str(url_file_model)
+            except:
+                print(
+                    "[error] can't find header in API (upload_model_file function in API class)"
+                )
+                pass
+            # try:
+            # r = http.request('POST', url, body=open(
+            #     url_file_model, encoding="utf8", errors='ignore').read().encode('UTF-8'), headers=header)
+            r = http.request("POST", url, body=binary_data, headers=header)
+            checkRequest = DATA.convert_bytes_to_json(r.data)
+            if "error" in list(checkRequest.keys()):
+                print(
+                    "[error] ",
+                    checkRequest["code"],
+                    ", data:",
+                    checkRequest["error"],
+                    "(upload_model_file function in API class)",
+                )
+            else:
+                dataResultLogin = DATA.convert_bytes_to_json(r.data)
+                # return (dataResultLogin)
+                data = {
+                    "modelFile": {
+                        "name": dataResultLogin["name"],
+                        "url": dataResultLogin["url"],
+                        "__type": "File",
+                    },
+                    "modelName": model_name,
+                    "fromData": from_data,
+                    "algorithm": {
+                        "__type": "Pointer",
+                        "className": "Algorithm",
+                        "objectId": algorithm_id,
+                    },
+                    "params": params,
+                    "colLabel": str(col_label),
+                    "colLabelName": str(col_label_name),
+                    "colFeature": str(col_feature),
+                    "colFeatureName": str(col_feature_name),
+                    "description": str(description),
+                    "evalution": float(evalution),
+                }
+                url_upload_DB = API.url + "classes/" + "SystemModelMx"
+                header_upload_DB = API.get_header()
+                data_decode = json.dumps(data)
+                r = http.request(
+                    "POST", url_upload_DB, body=data_decode, headers=header_upload_DB
+                )
+                return r.data
 
     def upload_model_detail(
         model_id,

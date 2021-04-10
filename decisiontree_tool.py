@@ -50,8 +50,7 @@ class decision_tree_algorithm(algorithm):
                 return data
         else:
             try:
-                clf = DecisionTreeClassifier(
-                    criterion=decision_tree_algorithm.params['criterion'], splitter=decision_tree_algorithm.params['splitter'], max_depth=decision_tree_algorithm.params['max_depth'], min_samples_split=decision_tree_algorithm.params['min_samples_split'])
+                clf = DecisionTreeClassifier()
                 return clf
             except:
                 print(

@@ -31,7 +31,7 @@ for i in list(dataset_imb['obesity'].value_counts().index):
     dataset_cs_1 = pd.concat([dataset_cs_1,data_after])
 
 export_csv = dataset_cs_1.to_csv(
-    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_end_encode_balance.csv",
+    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_balance_chart.csv",
     index=None,
     header=True,
 )

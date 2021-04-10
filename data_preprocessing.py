@@ -93,11 +93,11 @@ for i in range(len(dataset)):
 
 
 
-export_csv = dataset.to_csv(
-    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_end_no_encode.csv",
-    index=None,
-    header=True,
-)
+# export_csv = dataset.to_csv(
+#     r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_end_no_encode.csv",
+#     index=None,
+#     header=True,
+# )
 
 
 # dataset1 = pd.read_csv("../data/data_pre_1.csv")
@@ -254,10 +254,6 @@ nicotine_values = ["Không", "Có"]
 dataset = transform_encoder_level(dataset, "nicotine", nicotine_values, [0,1])
 
 
-#   Xử lý dữ liệu chronic_diseases (bệnh mãn tính)
-chronic_diseases_values = ["Không", "Có"]
-dataset = transform_encoder_level(dataset, "chronic_diseases", chronic_diseases_values, [0,1])
-
 
 #   Xử lý dữ liệu park
 park_values = ["Không", "Có"]
@@ -269,8 +265,6 @@ depression_values = ["Không", "Có"]
 dataset = transform_encoder_level(dataset, "depression", depression_values, [0,1])
 
 dataset['BMI'] = dataset['weight']/(dataset['height']*dataset['height'])
-
-dataset = dataset.iloc[:,2:]
 
 dataset = dataset.reset_index(drop = True)
 
@@ -290,9 +284,10 @@ for i in range(len(dataset)):
     elif (dataset['BMI'][i] > 40):
         obesity.append(5)
 
+dataset['obesity'] = obesity
 
 export_csv = dataset.to_csv(
-    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_end.csv",
+    r"C:\Users\KHUONG\Desktop\luanvan\auto_ml_flask\data\data_chart.csv",
     index=None,
     header=True,
 )

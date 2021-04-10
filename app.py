@@ -525,6 +525,217 @@ def linking_users():
         return "[Error] BAD REQUEST can't Linking_Users"
 
 
+@app.route("/create-model-system", methods=["POST"])
+# @cross_origin()
+def create_model_system():
+    try:
+        # Get opjectId, collabel, feature, algorithm and parameters
+        data_name = 'DatasetVietNam'
+        class_name = 'DatasetSurveyBalance'
+        model_name = "MODEL_SYSTEM"
+        col_label = 12
+        col_feature_str = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '13', '14', '15', '16']
+        col_feature = []
+        for col in col_feature_str:
+            col_feature.append(int(col))
+        athm = 'DecisionTree'
+        athm_id = 'HkssgpWgkq'
+        params = {'criterion': 'gini', 'kernel': 'linear', 'maxDepth': '7', 'minSamplesSplit': '5', 'splitter': 'best', 'testSize': '0.3'}
+        # print(params)
+        if params == {}:
+            params = None
+            test_size = 0.3
+        else:
+            test_size = float(params["testSize"])
+            if test_size >= 1.0 or test_size <= 0.0:
+                data = {"error": "0.0 < test size < 1.0"}
+                return data
+        # get data
+        r = API.get_class(class_name)
+        arr = str(r.data, "utf-8")
+        r_json = json.loads(arr)
+        data = r_json["results"]
+        dataFrame = pd.DataFrame(data)
+        if class_name == "DatasetSurveyBalance":
+            dataFrame = dataFrame.iloc[:, 3:]
+        elif class_name == "DatasetObesity":
+            dataFrame = dataFrame.iloc[:, 3:]
+        if "yearOfBirth" in list(dataFrame.columns):
+            del dataFrame["yearOfBirth"]
+        # dataFrame = dataFrame.dropna(axis="1",how = "any")
+        col_feature_name = np.array((dataFrame.iloc[:, col_feature]).columns)
+        col_feature_name_str = col_feature_name[0]
+        col_feature_name = list(col_feature_name)
+        col_feature_name.pop(0)
+        col_feature_name = np.array(col_feature_name)
+        for col in col_feature_name:
+            col_feature_name_str = col_feature_name_str + "," + col
+        col_label_name = str(
+            np.array(pd.DataFrame(np.matrix(dataFrame.columns)).iloc[0, col_label])
+        )
+        # get data train, test
+        X_train, X_test, y_train, y_test = DATA.get_data_train(
+            dataFrame, col_feature, col_label, test_size
+        )
+        model, evalution, error, params = get_athm(
+            athm, X_train, X_test, y_train, y_test, params
+        )
+        if error != "":
+            data = {"error": error}
+            return data
+        else:
+            #   Create random id for file name
+            folder_model = "./upload_model"
+            randomId = str(uuid.uuid4())[:8]
+            file_name_model = (
+                randomId + "_" + str(athm) + "_" + str(class_name) + str(".pkl")
+            )
+            pkl_filename = folder_model + "/" + file_name_model
+            joblib.dump(model, str(file_name_model))
+            custom_header = {}
+            custom_header["X-Parse-Application-Id"] = API.X_Parse_Application_Id
+            custom_header["X-Parse-REST-API-Key"] = API.X_Parse_REST_API_Key
+            custom_header["Content-Type"] = "application/x-binary"
+            desription = description = (
+                "Model "
+                + " use "
+                + str(athm)
+                + " algorithm "
+                + ". "
+                + "Dataset for model is "
+                + str(data_name)
+                + ", columns label is "
+                + str(col_label_name)
+                + " and columns feature is "
+                + str(col_feature_name)
+            )
+            r_upload_2 = API.upload_model_file_system(
+                file_name_model,
+                model_name,
+                data_name,
+                athm_id,
+                params,
+                col_label,
+                col_label_name,
+                col_feature,
+                col_feature_name_str,
+                description,
+                evalution,
+            )
+            return r_upload_2
+    except:
+        print("[error] (createModel function app.py)")
+        data = {"error": "can't create model"}
+        return data
+
+
+
+@app.route("/create-model-system-mx", methods=["POST"])
+# @cross_origin()
+def create_model_system_mx():
+    try:
+        # Get opjectId, collabel, feature, algorithm and parameters
+        data_name = 'DatasetMX'
+        class_name = 'DatasetObesity'
+        model_name = "MODEL SYSTEM"
+        col_label = 7
+        col_feature_str = ['0', '1', '2', '3', '4', '5', '6', '8', '9', '10', '11', '12', '13', '14', '15', '16']
+        col_feature = []
+        for col in col_feature_str:
+            col_feature.append(int(col))
+        athm = 'SupportVectorMachine'
+        athm_id = 'ccn7ofeacm'
+        params = {'C': '100000', 'degree': '3', 'gamma': '0.3', 'kernel': 'linear', 'testSize': '0.3'}
+        if params == {}:
+            params = None
+            test_size = 0.3
+        else:
+            test_size = float(params["testSize"])
+            if test_size >= 1.0 or test_size <= 0.0:
+                data = {"error": "0.0 < test size < 1.0"}
+                return data
+        # get data
+        r = API.get_class(class_name)
+        arr = str(r.data, "utf-8")
+        r_json = json.loads(arr)
+        data = r_json["results"]
+        dataFrame = pd.DataFrame(data)
+        if class_name == "DatasetSurveyBalance":
+            dataFrame = dataFrame.iloc[:, 3:]
+        elif class_name == "DatasetObesity":
+            dataFrame = dataFrame.iloc[:, 3:]
+        if "yearOfBirth" in list(dataFrame.columns):
+            del dataFrame["yearOfBirth"]
+        # dataFrame = dataFrame.dropna(axis="1",how = "any")
+        col_feature_name = np.array((dataFrame.iloc[:, col_feature]).columns)
+        col_feature_name_str = col_feature_name[0]
+        col_feature_name = list(col_feature_name)
+        col_feature_name.pop(0)
+        col_feature_name = np.array(col_feature_name)
+        for col in col_feature_name:
+            col_feature_name_str = col_feature_name_str + "," + col
+        col_label_name = str(
+            np.array(pd.DataFrame(np.matrix(dataFrame.columns)).iloc[0, col_label])
+        )
+        # get data train, test
+        X_train, X_test, y_train, y_test = DATA.get_data_train(
+            dataFrame, col_feature, col_label, test_size
+        )
+        model, evalution, error, params = get_athm(
+            athm, X_train, X_test, y_train, y_test, params
+        )
+        if error != "":
+            data = {"error": error}
+            return data
+        else:
+            #   Create random id for file name
+            folder_model = "./upload_model"
+            randomId = str(uuid.uuid4())[:8]
+            file_name_model = (
+                randomId + "_" + str(athm) + "_" + str(class_name) + str(".pkl")
+            )
+            pkl_filename = folder_model + "/" + file_name_model
+            joblib.dump(model, str(file_name_model))
+            custom_header = {}
+            custom_header["X-Parse-Application-Id"] = API.X_Parse_Application_Id
+            custom_header["X-Parse-REST-API-Key"] = API.X_Parse_REST_API_Key
+            custom_header["Content-Type"] = "application/x-binary"
+            desription = description = (
+                "Model "
+                + " use "
+                + str(athm)
+                + " algorithm "
+                + ". "
+                + "Dataset for model is "
+                + str(data_name)
+                + ", columns label is "
+                + str(col_label_name)
+                + " and columns feature is "
+                + str(col_feature_name)
+            )
+            r_upload_2 = API.upload_model_file_system_mx(
+                file_name_model,
+                model_name,
+                data_name,
+                athm_id,
+                params,
+                col_label,
+                col_label_name,
+                col_feature,
+                col_feature_name_str,
+                description,
+                evalution,
+            )
+            return r_upload_2
+    except:
+        print("[error] (createModel function app.py)")
+        data = {"error": "can't create model"}
+        return data
+
+
+
+
+
 @app.route("/create-model", methods=["POST"])
 # @cross_origin()
 def create_model():
@@ -759,13 +970,27 @@ def create_api_model():
 def load_model():
     try:
         model_id = request.args.get("modelId")
+        classModel = request.args.get("classModel")
+        if (classModel == "SystemModelVn"):
+            r = API.get_class("DatasetSurveyBalance")
+            arr = str(r.data, "utf-8")
+            r_json = json.loads(arr)
+            data = r_json["results"]
+            dataFrame = pd.DataFrame(data)
+            dataFrame = dataFrame.iloc[:,3:]
+            dataFrame.drop('obesity', inplace=True, axis=1)
         new_record = request.args.get("record")
         new_record = new_record.split(",")
         df_new_record = pd.DataFrame([new_record])
+        df_new_record.columns = dataFrame.columns
+        for i in range(len(df_new_record)):
+            for feature in list(df_new_record.columns):
+                if df_new_record[feature][i] == "":
+                    df_new_record[feature][i] = list(dataFrame[feature].value_counts().index)[list(dataFrame[feature].value_counts()).index(max(dataFrame[feature].value_counts()))]
         if model_id == None:
             return "[error] modelId not found check (keys) modelId and values"
         else:
-            r = API.get_model("Model", model_id)
+            r = API.get_model(classModel, model_id)
             modelUrl = r["modelFile"]["url"]
             Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
             data_transform = {
@@ -961,6 +1186,30 @@ def get_model_detail():
     except:
         print("[Error] (useModel function app.py)")
         return "[Error] BAD REQUEST can't get model detail"
+
+
+@app.route("/get-system-model", methods=["GET"])
+# @cross_origin()
+def get_system_model():
+    try:
+        r_mx = API.get_class("SystemModelMx")
+        arr_mx = str(r_mx.data, "utf-8")
+        r_json_mx = json.loads(arr_mx)
+        model_mx_id = r_json_mx['results'][len(r_json_mx)]['objectId']
+        r_vn = API.get_class("SystemModelVn")
+        arr_vn = str(r_vn.data, "utf-8")
+        r_json_vn = json.loads(arr_vn)
+        model_vn_id = r_json_vn['results'][len(r_json_vn)]['objectId']
+        model_system = {
+            "modelVn":model_vn_id,
+            "modelMx":model_mx_id
+        }
+        return model_system
+    except:
+        print("[error] (createModel function app.py)")
+        data = {"error": "can't create model"}
+        return data
+
 
 
 if __name__ == "__main__":
