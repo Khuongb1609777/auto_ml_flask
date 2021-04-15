@@ -897,7 +897,7 @@ def create_api_model():
                 "2": "Thừa cân loại 1 (Overweight level 1)",
                 "3": "Thừa cân loại 2 (Overweight level 2)",
                 "4": "Béo phì loại 1 (Obesity type I)",
-                "5": "Béo phì loại 2 (Obesity type II)",
+                "5": "git Béo phì loại 2 (Obesity type II)",
                 "6": "Béo phì loại 3 (Obesity type III)",
                 }
                 dataReturn = {
