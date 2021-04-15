@@ -891,11 +891,20 @@ def create_api_model():
                 modelUrl = r["modelFile"]["url"]
                 Nu_SVC_classifier = joblib.load(urlopen(modelUrl))
                 KQ = np.array(Nu_SVC_classifier.predict(data_test_dataFrame))
+                data_transform = {
+                "0": "Thiếu cân (Insufficient weight)",
+                "1": "Bình thường (Normal weight)",
+                "2": "Thừa cân loại 1 (Overweight level 1)",
+                "3": "Thừa cân loại 2 (Overweight level 2)",
+                "4": "Béo phì loại 1 (Obesity type I)",
+                "5": "Béo phì loại 2 (Obesity type II)",
+                "6": "Béo phì loại 3 (Obesity type III)",
+                }
                 dataReturn = {
                     "result": [],
                 }
                 for rs in KQ:
-                    dataReturn["result"].append(str(rs))
+                    dataReturn["result"].append(data_transform[str(rs)])
                 return dataReturn
         except:
             print("[error] check key (inputColumns) and value")
@@ -949,11 +958,20 @@ def create_api_model():
                 try:
                     data_test = df_test.iloc[:, col_feature_test_array]
                     KQ = np.array(Nu_SVC_classifier.predict(data_test))
+                    data_transform = {
+                    "0": "Thiếu cân (Insufficient weight)",
+                    "1": "Bình thường (Normal weight)",
+                    "2": "Thừa cân loại 1 (Overweight level 1)",
+                    "3": "Thừa cân loại 2 (Overweight level 2)",
+                    "4": "Béo phì loại 1 (Obesity type I)",
+                    "5": "Béo phì loại 2 (Obesity type II)",
+                    "6": "Béo phì loại 3 (Obesity type III)",
+                    }
                     dataReturn = {
                         "result": [],
                     }
                     for rs in KQ:
-                        dataReturn["result"].append(str(rs))
+                        dataReturn["result"].append(data_transform[str(rs)])
                     os.remove(file_path_test)
                     return dataReturn
                 except IndexError:
