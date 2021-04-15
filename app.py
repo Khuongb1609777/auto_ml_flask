@@ -307,7 +307,7 @@ def get_data_charts_obesity():
 
 
 @app.route("/upload-file-url", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def upload_file_url():
     try:
         #   Get file
@@ -431,7 +431,7 @@ def get_data_models():
 
 
 @app.route("/check-data-delete", methods=["GET"])
-# @cross_origin()
+@cross_origin()
 def check_data_delete():
     try:
         className = request.args.get("className")
@@ -456,7 +456,7 @@ def get_algorithm():
 
 
 @app.route("/get-params", methods=["GET"])
-# @cross_origin()
+@cross_origin()
 def get_params():
     try:
         className = request.args.get("className")
@@ -495,7 +495,7 @@ def delete_data_model():
 
 
 @app.route("/register", methods=["POST", "GET"])
-# @cross_origin()
+@cross_origin()
 def register():
     try:
         userName = request.args.get("userName")
@@ -513,7 +513,7 @@ def register():
 
 
 @app.route("/linking-users", methods=["POST", "GET"])
-# @cross_origin()
+@cross_origin()
 def linking_users():
     try:
         login_info_auth = {"username": "36195438", "password": "khuong"}
@@ -526,7 +526,7 @@ def linking_users():
 
 
 @app.route("/create-model-system", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def create_model_system():
     try:
         # Get opjectId, collabel, feature, algorithm and parameters
@@ -631,7 +631,7 @@ def create_model_system():
 
 
 @app.route("/create-model-system-mx", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def create_model_system_mx():
     try:
         # Get opjectId, collabel, feature, algorithm and parameters
@@ -737,7 +737,7 @@ def create_model_system_mx():
 
 
 @app.route("/create-model", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def create_model():
     try:
         # Get opjectId, collabel, feature, algorithm and parameters
@@ -841,7 +841,7 @@ def create_model():
 
 
 @app.route("/download-dataset", methods=["GET"])
-# @cross_origin()
+@cross_origin()
 def download_dataset():
     try:
         # Get opjectId, collabel, feature, algorithm and parameters
@@ -874,7 +874,7 @@ def download_dataset():
 
 
 @app.route("/model-publish-api", methods=["GET", "POST"])
-# @cross_origin()
+@cross_origin()
 def create_api_model():
     # try:
     if request.headers["CONTENT_TYPE"] == "application/json":
@@ -966,7 +966,7 @@ def create_api_model():
 
 
 @app.route("/load-model", methods=["GET"])
-# @cross_origin()
+@cross_origin()
 def load_model():
     try:
         model_id = request.args.get("modelId")
@@ -1016,7 +1016,7 @@ def load_model():
 
 
 @app.route("/add-record-obesity", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def add_record_obesity():
     try:
         new_record = request.args.get("record")
@@ -1115,7 +1115,7 @@ def add_record_obesity():
 
 
 @app.route("/new-record-survey", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def new_record_survey():
     try:
         new_record = request.args.get("record")
@@ -1170,7 +1170,7 @@ def new_record_survey():
 
 
 @app.route("/get-model-detail", methods=["GET"])
-# @cross_origin()
+@cross_origin()
 def get_model_detail():
     try:
         modelId = request.args.get("modelId")

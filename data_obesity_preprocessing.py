@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from sklearn import svm, datasets
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import plot_confusion_matrix
-
+e
 dataset = pd.read_csv("./data/ObesityDataSet_raw_and_data_sinthetic.csv")
 
 #  #   Column                          Non-Null Count  Dtype
