@@ -47,8 +47,9 @@ UPLOAD_FOLDER = "./upload_temp"
 DOWNLOAD_FOLDER = "./download_temp"
 DATA_API_FOLDER = "./data_api"
 
-app = Flask(__name__, static_folder="../front/dist/front", static_url_path="")
+app = Flask(__name__)
 CORS(app)
+
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 app.config["DOWNLOAD_FOLDER"] = DOWNLOAD_FOLDER
 app.config["DATA_API_FOLDER"] = DATA_API_FOLDER
@@ -60,7 +61,7 @@ def home():
 
 
 @app.route("/upload-dataset", methods=["POST"])
-# @cross_origin()
+@cross_origin()
 def upload_dataset():
     try:
         dataset = pd.read_csv("./data_api/data_preprocessing_2.csv")
@@ -986,7 +987,7 @@ def load_model():
         for i in range(len(df_new_record)):
             for feature in list(df_new_record.columns):
                 if df_new_record[feature][i] == "":
-                    df_new_record[feature][i] = list(dataFrame[feature].value_counts().index)[list(dataFrame[feature].value_counts()).index(max(dataFrame[feature].value_counts()))]
+                    df_new_record[feature][i] = list(dataFrame[feature].value_counts().index)[list(dataFrame[feature].value_counts()).index(min(dataFrame[feature].value_counts()))]
         if model_id == None:
             return "[error] modelId not found check (keys) modelId and values"
         else:
